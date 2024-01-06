@@ -1,41 +1,73 @@
 # Bibverifier
 
-Verifying bibliography lines
+[![PyPI](https://img.shields.io/pypi/v/bibverifier.svg)][pypi_]
+[![Status](https://img.shields.io/pypi/status/bibverifier.svg)][status]
+[![Python Version](https://img.shields.io/pypi/pyversions/bibverifier)][python version]
+[![License](https://img.shields.io/pypi/l/bibverifier)][license]
+
+[![Read the documentation at https://bibverifier.readthedocs.io/](https://img.shields.io/readthedocs/bibverifier/latest.svg?label=Read%20the%20Docs)][read the docs]
+[![Tests](https://github.com/yfukai/bibverifier/workflows/Tests/badge.svg)][tests]
+[![Codecov](https://codecov.io/gh/yfukai/bibverifier/branch/main/graph/badge.svg)][codecov]
+
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)][pre-commit]
+[![Black](https://img.shields.io/badge/code%20style-black-000000.svg)][black]
+
+[pypi_]: https://pypi.org/project/bibverifier/
+[status]: https://pypi.org/project/bibverifier/
+[python version]: https://pypi.org/project/bibverifier
+[read the docs]: https://bibverifier.readthedocs.io/
+[tests]: https://github.com/yfukai/bibverifier/actions?workflow=Tests
+[codecov]: https://app.codecov.io/gh/yfukai/bibverifier
+[pre-commit]: https://github.com/pre-commit/pre-commit
+[black]: https://github.com/psf/black
 
 ## Features
 
-* Feature 1
-* Feature 2
-* ...
+- TODO
 
-## Development
+## Requirements
 
-To set up [hatch] and [pre-commit] for the first time:
+- TODO
 
-1. install [hatch] globally, e.g. with [pipx], i.e. `pipx install hatch`,
-2. optionally run `hatch config set dirs.env.virtual .direnv` to let [VS Code] find your virtual environments,
-3. make sure `pre-commit` is installed globally, e.g. with `pipx install pre-commit`,
+## Installation
 
-A special feature that makes hatch very different from other familiar tools is that you almost never
-activate, or enter, an environment. Instead, you use `hatch run env_name:command` and the `default` environment
-is assumed for a command if there is no colon found. Thus you must always define your environment in a declarative
-way and hatch makes sure that the environment reflects your declaration by updating it whenever you issue
-a `hatch run ...`. This helps with reproducability and avoids forgetting to specify dependencies since the
-hatch workflow is to specify everything directly in [pyproject.toml](pyproject.toml). Only in rare cases, you
-will use `hatch shell` to enter the `default` environment, which is similar to what you may know from other tools.
+You can install _Bibverifier_ via [pip] from [PyPI]:
 
-To get you started, use `hatch run test:cov` or `hatch run test:no-cov` to run the unitest with or without coverage reports,
-respectively. Use `hatch run lint:all` to run all kinds of typing and linting checks. Try to automatically fix linting
-problems with `hatch run lint:fix` and use `hatch run docs:serve` to build and serve your documentation.
-You can also easily define your own environments and commands. Check out the environment setup of hatch
-in [pyproject.toml](pyproject.toml) for more commands as well as the package, build and tool configuration.
+```console
+$ pip install bibverifier
+```
+
+## Usage
+
+Please see the [Command-line Reference] for details.
+
+## Contributing
+
+Contributions are very welcome.
+To learn more, see the [Contributor Guide].
+
+## License
+
+Distributed under the terms of the [MIT license][license],
+_Bibverifier_ is free and open source software.
+
+## Issues
+
+If you encounter any problems,
+please [file an issue] along with a detailed description.
 
 ## Credits
 
-This package was created with [The Hatchlor] project template.
+This project was generated from [@cjolowicz]'s [Hypermodern Python Cookiecutter] template.
 
-[The Hatchlor]: https://github.com/florianwilhelm/the-hatchlor
-[pipx]: https://pypa.github.io/pipx/
-[hatch]: https://hatch.pypa.io/
-[pre-commit]: https://pre-commit.com/
-[VS Code]: https://code.visualstudio.com/docs/python/environments#_where-the-extension-looks-for-environments
+[@cjolowicz]: https://github.com/cjolowicz
+[pypi]: https://pypi.org/
+[hypermodern python cookiecutter]: https://github.com/cjolowicz/cookiecutter-hypermodern-python
+[file an issue]: https://github.com/yfukai/bibverifier/issues
+[pip]: https://pip.pypa.io/
+
+<!-- github-only -->
+
+[license]: https://github.com/yfukai/bibverifier/blob/main/LICENSE
+[contributor guide]: https://github.com/yfukai/bibverifier/blob/main/CONTRIBUTING.md
+[command-line reference]: https://bibverifier.readthedocs.io/en/latest/usage.html

@@ -1,4 +1,7 @@
+# License
 
-{%
-   include-markdown "../LICENSE.txt"
-%}
+```{literalinclude} ../LICENSE
+---
+language: none
+---
+```

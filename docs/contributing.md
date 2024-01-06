@@ -1,4 +1,7 @@
+```{include} ../CONTRIBUTING.md
+---
+end-before: <!-- github-only -->
+---
+```
 
-{%
-   include-markdown "../CONTRIBUTING.md"
-%}
+[code of conduct]: codeofconduct

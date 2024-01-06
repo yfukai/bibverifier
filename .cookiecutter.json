@@ -1,0 +1,16 @@
+{
+  "_checkout": "2022.6.3",
+  "_output_dir": "/Users/fukai/projects/bibverifier",
+  "_repo_dir": "/Users/fukai/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Yohsuke T. Fukai",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "ysk@yfukai.net",
+  "friendly_name": "Bibverifier",
+  "github_user": "yfukai",
+  "license": "MIT",
+  "package_name": "bibverifier",
+  "project_name": "bibverifier",
+  "version": "0.0.0"
+}

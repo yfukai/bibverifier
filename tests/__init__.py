@@ -1,1 +1,1 @@
-"""Unit test package for bibverifier."""
+"""Test suite for the bibverifier package."""
