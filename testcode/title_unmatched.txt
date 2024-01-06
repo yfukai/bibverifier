@@ -1,0 +1,16 @@
+1. Barresi M J F and Gilbert S F (2019) Developmental Biology. Twelve edition, (Sinauer Associates Inc, New York).
+13. Mizuno K, Shiozawa K, Katoh TA, Minegishi K, Ide T, Ikawa Y, Nishimura H, Takaoka K, Itabashi T, Iwane AH, Nakai J (2020) Role of Ca 2+ transients at the node of the mouse embryo in breaking of left-right symmetry. Sci. Adv. 6: eaba1195.
+24. Taniguchi A, Nishigami Y, Kajiura-Kobayashi H, Takao D, Tamaoki D, Nakagaki T, Nonaka S, and Sonobe S (2023) Light-sheet microscopy reveals dorsoventral asymmetric membrane dynamics of amoeba proteus during pressure-driven locomotion. Biol. Open 12: bio059671.
+41. Meijering E (2012) Cell segmentation: 50 years down the road [life sciences]. IEEE Signal Process. Mag. 29: 140–145.
+48. Sofroniew N (2022) Napari: a multi-dimensional image viewer for Python. Zenodo. https://github.com/napari/napari/blob/main/CITATION.cff.
+53. Watershed Separation. https://imagej.github.io/imaging/watershed.
+54. Zoccoler M L, Müller J R, Korten T, and Haase R (2023) Image data science with Python and Napari @EPFL. https://github.com/BiAPoL/Image-data-science-with-Python-and-Napari-EPFL2022.
+64. Lalit M, Tomancak P, and Jug F (2021) Embedding-based instance segmentation in microscopy. In: Proceedings of the Fourth Conference on Medical Imaging with Deep LearningLübeck, Germany, pp 399–415 (PMLR).
+65. DeepImageJ. https://deepimagej.github.io/.
+97. Moen E, Borba E, Miller G, Schwartz M, Bannon D, Koe N, Cam-plisson I, Kyme D, Pavelchek C, Price T, and Kudo T (2019) Accu-rate cell tracking and lineage construction in live-cell imaging experiments with deep learning. bioRxiv 803205.
+105. Kirillov A, Mintun E, Ravi N, Mao H, Rolland C, Gustafson L, Xiao T, Whitehead S, Berg A C, Lo W Y, Dollár P (2023) Segment anything. arXiv 2304.02643.
+107. Arganda-Carreras I, Kaynig V, Rueden C, Schindelin J, Car-dona A, and Seung H S (2016) Trainable_Segmentation: Release v3.1.2. Zenodo. https://zenodo.org/record/59290.
+109. Haase R, Pop D D, and Žigutyṫe L (2023) Haesleinhuepf/Napari-Accelerated-Pixel-and-Object-Classification: 0.12.3, Zenodo. https://zenodo.org/record/7579595.
+110. YAPiC. (2023) Yet Another Pixel Classifier (Based on Deep Learning). https://github.com/yapic/yapic. 111.
+127. Muhlich J L, Chen Y-A, Yapp C, Russell D, Santagata S, and Sorger P K (2021) Stitching and registering highly multiplexed whole slide images of tissues and tumors using ASHLAR soft-ware, preprint. Bioinformatics 38: 4613-4621.
+129. Fukai Y T (2021) M2Stitch. https://github.com/yfukai/m2stitch.

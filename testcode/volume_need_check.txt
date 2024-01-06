@@ -1,0 +1,108 @@
+Wrong page number
+
+4. Maška M, Ulman V, Delgado-Rodriguez P, Gómez-de-Mariscal E, Nečasová T, Guerrero Peña FA, Ren TI, Meyerowitz EM, Scherr T, Löffler K, and Mikut R (2023) The cell tracking challenge: 10 years of objective benchmarking. Nat. Methods 20: 1–11.
+> page number 1-11 -> 1010-1020
+
+27. Chen B-C, Legant W R, Wang K, Shao L, Milkie D E, David-son M W, Janetopoulos C, Wu X S, Hammer III J A, Liu Z, and English B P (2014) Lattice Light-Sheet Microscopy: Imaging Molecules to Embryos at High Spatiotemporal Resolution. Science 346: 417–23.
+> page number 417-23 -> 1257998
+
+58. He K, Gkioxari G, Dollár P, and Girshick R (2017) Mask R-CNN. In: IEEE International Conference on Computer Vision (ICCV) 2017. Venice, Italy, pp 2961–2969.
+> page number 2961-2969 -> 2980-2988
+
+72. Bankhead P, Loughrey M B, Fernández J A, Dombrowski Y, McArt D G, Dunne P D, McQuaid S, Gray R T, Murray L J, Coleman H G, James J A (2017) QuPath: open source software for digital pathology image analysis. Sci. Rep. 7: 1–7.
+> page number 1-7 -> 16878
+
+92. Schiegg M, Hanslovsky P, Kausler B X, Hufnagel L, and Hamprecht F A (2013) Conservation tracking. In: 2013 IEEE Inter-national Conference on Computer Vision Sydney, Australia, pp 2928–2935 (IEEE, ).
+IEEE, -> IEEE
+
+131. Fan L, Zhang F, Fan H, and Zhang C (2019) Brief review of image denoising techniques. Vis. Comput. Ind. Biomed. Art. 2: 1–2.
+> page number 1-2  -> 7
+
+138. González L M, Ruder W C, Leduc P R, and Messner W C (2014) Controlling magnetotactic bacteria through an integrated nanofabricated metallic island and optical microscope approach. Sci. Rep. 4: 86–92.
+> page number 86-92 -> 4104
+
+146. Katoh T A, Ikegami K, Uchida N, Iwase T, Nakane D, Masaike T, Setou M, and Nishizaka T (2018) Three-dimensional tracking of microbeads attached to the tip of single isolated tracheal cilia beating under external load. Sci. Rep. 8: 1119–21.
+> page number 1119-21 -> 15562
+
+150. Schonbrun E, Piestun R, Jordan P, Cooper J, Wulff K D, Courtial J, and Padgett M (2005) 3D interferometric optical tweezers using a single spatial light modulator. Opt. Express, OE 13: 3777–3786.
+> issue number OE 13: -> 13: 
+
+161. Suzuki M, Morita H, and Ueno N (2012) Molecular mechanisms of cell shape changes that contribute to vertebrate neural tube closure. Develop. Growth Differ 54: 26—276.
+> page number 26-276 -> 266-276
+
+Formatting inconsistency
+
+25. Gao L, Shao L, Chen B-C, and Betzig E (2014) 3D Live fluo-rescence imaging of cellular dynamics using bessel beam plane illumination microscopy. Nat. Protoc. 9: 1083–101.
+> page number 1083-101 -> 1083-1101
+
+26. Planchon T A, Gao L, Milkie D E, Davidson M W, Galbraith J A, Galbraith C G, and Betzig E (2011) Rapid Three-Dimensional Isotropic Imaging of Living Cells Using Bessel Beam Plane Illumination. Nat. Methods 8: 417–23.
+> page number 417-23 -> 417-423
+
+36. Malin-Mayor C, Hirsch P, Guignard L, McDole K, Wan Y, Lemon W C, Kainmueller D, Keller P J, Preibisch S, and Funke J (2023) Automated reconstruction of whole-embryo cell lineages by learning from sparse annotations. Nat. Biotechnol. 41: 44–9.
+> page number 44-9 -> 44-49
+
+44. Schneider C A, Rasband W S, and Eliceiri K W (2012) NIH Image to ImageJ: 25 years of image analysis. Nat. Methods 9:671–5.
+> page number 671-5 -> 671-675
+
+57. Ma J and Wang B (2023) Towards foundation models of biolog-ical image segmentation. Nat. Methods 20: 953–5.
+> page number 953-5 -> 953-955
+
+62. Stringer C, Wang T, Michaelos M, and Pachitariu M (2021) Cellpose: a generalist algorithm for cellular segmentation. Nat. Methods 18: 100–6.
+> page number 100-6 -> 100-106
+
+63. Pachitariu M and Stringer C (2022) Cellpose 2.0: how to train your own model. Nat. Methods 19: 1634–41.
+> page number 1634-41 -> 1634-1641
+
+66. Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T, Preibisch S, Rueden C, Saalfeld S, Schmid B, and Tinevez J Y (2012) Fiji: an open-source platform for biological-image analysis. Nat. Methods 9: 676–82.
+> page number 676-82 -> 676-682
+
+80. Amat F, Lemon W, Mossing D P, McDole K, Wan Y, Branson K, Myers E W, and Keller P J (2014) Fast, accurate reconstruction of cell lineages from large-scale fluorescence microscopy data. Nat. Methods 11: 951–8.
+> page number 951-8 -> 951-958
+
+130. Hörl D, Rojas Rusak F, Preusser F, Tillberg P, Randel N, Chhetri R K, Cardona A, Keller P J, Harz H, Leonhardt H, Treier M (2019) BigStitcher: reconstructing high-resolution image datasets of cleared and expanded samples. Nat. Methods 16: 870–4.
+> page number 870-4 -> 870-874
+
+133. Shindo A and Wallingford J B (2014) PCP and septins compart-mentalize cortical actomyosin to direct collective cell movement. Science 343: 649–52.
+> page number 649-52 -> 649-652
+
+136. Garzon-Coral C, Fantana H A, and Howard J (2016) A force-generating machinery maintains the spindle at the cell center during mitosis. Science 352: 1124–27.
+> page number 1124-27 -> 1124-1127
+
+141. Mongera A, Pochitaloff M, Gustafson H J, Stooke-Vaughan G A, Rowghanian P, Kim S, and Campàs O (2023) Mechanics of the cellular microenvironment as probed by cells in vivo dur-ing zebrafish presomitic mesoderm differentiation. Nat. Mat. 22: 135–43.
+> page number 135-43 -> 135-143
+
+142. Gosse C and Croquette V (2002) Magnetic tweezers: micro-manipulation and force measurement at the molecular level. Biophys. J. 82: 3314–29.
+> page number 3314-29 -> 3314-3329
+
+143. Svoboda K and Block S M (1994) Biological applica-tions of optical forces. Annu Rev Biophys Biomol Struct23: 247–85.
+> page number 247-85 -> 247-285
+
+145. Yajima J, Mizutani K, and Nishizaka T (2008) A torque compo-nent present in mitotic kinesin Eg5 revealed by three-dimensional tracking. Nat. Struct. Mol. Biol. 15: 1119–21.
+> page number 1119-21 -> 1119-1121
+
+157. Umeda K, McArthur S J, and Kodera N (2023) Spatiotemporal resolution in high-speed atomic force microscopy for studying biological macromolecules in action. Microscopy 72: 151–61.
+> page number 151-61 -> 151-161
+
+185. Li X, Zhang Y, Wu J, and Dai Q (2023) Challenges and opportu-nities in Bioimage analysis. Nat. Methods 20: 958–61.
+> page number 958-61 -> 958-961
+
+186. Nogare D D, Hartley M, Deschamps J, Ellenberg J, and Jug F (2023) Using AI in Bioimage analysis to elevate the rate of scientific discovery as a community. Nat. Methods 20:973–5.
+> page number 973-5 -> 973-975
+
+187. Carpenter A E, Cimini B A, and Eliceiri K W (2023) Smart microscopes of the future. Nat. Methods 20:962–4.
+> page number 962-4 -> 962-964
+
+
+
+29. McDole K, Guignard L, Amat F, Berger A, Malandain G, Royer L A, Turaga S C, Branson K, and Keller P J (2018) In Toto Imaging and Reconstruction of Post-Implantation Mouse Development at the Single-Cell Level. Cell 175: 859–876.
+> page number 859-876 -> 859-876.e33
+
+170. John A and Rauzi M (2021) A two-tier junctional mechanism drives simultaneous tissue folding and extension. Dev. Cell 56: 1469–1483.
+> page number 1469-1483 -> 1469-1483.e5
+
+172. Vignes H, Vagena-Pantoula C, Prakash M, Fukui H, Norden C, Mochizuki N, Jug F, and Vermot J (2022) Extracellular mechani-cal forces drive endocardial cell volume decrease during zebrafish cardiac valve morphogenesis. Dev. Cell 57: 598–609.
+> page number 598-609 -> 598-609.e5
+
+184. Goltsev Y, Samusik N, Kennedy-Darling J, Bhate S, Hale M, Vazquez G, Black S, and Nolan G P (2018) Deep profiling of mouse splenic architecture with CODEX multiplexed imaging. Cell 174: 968–981.
+> page number 968-981 -> 968-981.e15
+

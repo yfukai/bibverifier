@@ -1,0 +1,111 @@
+4. Maška M, Ulman V, Delgado-Rodriguez P, Gómez-de-Mariscal E, Nečasová T, Guerrero Peña FA, Ren TI, Meyerowitz EM, Scherr T, Löffler K, and Mikut R (2023) The cell tracking challenge: 10 years of objective benchmarking. Nat. Methods 20: 1–11.
+Maška M, Ulman V, Delgado-Rodriguez P, Gómez-de-Mariscal E, Nečasová T, Guerrero Peña FA, Ren TI, Meyerowitz EM, Scherr T, Löffler K, and Mikut R 
+Maška M, Ulman V, Delgado-Rodriguez P, Gómez-de-Mariscal E, Nečasová T, Guerrero Peña F A, Ren T I, Meyerowitz E M, Scherr T, Löffler K, Mikut R, Guo T, Wang Y, Allebach J P, Bao R, Al-Shakarji N M, Rahmon G, Toubal I E, Palaniappan K, Lux F, Matula P, Sugawara K, Magnusson K E G, Aho L, Cohen A R, Arbelle A, Ben-Haim T, Raviv T R, Isensee F, Jäger P F, Maier-Hein K H, Zhu Y, Ederra C, Urbiola A, Meijering E, Cunha A, Muñoz-Barrutia A, Kozubek M, Ortiz-de-Solórzano C
+
+14. Katoh T A, Omori T, Mizuno K, Sai X, Minegishi K, Ikawa Y, Nishimura H, Itabashi T, Kajikawa E, Hiver S, and Iwane A H (2023) Immotile cilia mechanically sense the direction of fluid flow for left-right determination. Science 379: 66–71.
+Katoh T A, Omori T, Mizuno K, Sai X, Minegishi K, Ikawa Y, Nishimura H, Itabashi T, Kajikawa E, Hiver S, and Iwane A H 
+Katoh T A, Omori T, Mizuno K, Sai X, Minegishi K, Ikawa Y, Nishimura H, Itabashi T, Kajikawa E, Hiver S, Iwane A H, Ishikawa T, Okada Y, Nishizaka T, Hamada H
+
+16. Shimozawa T, Yamagata K, Kondo T, Hayashi S, Shitamukai A, Konno D, Matsuzaki F, Takayama J, Onami S, Nakayama H, and Kosugi Y (2013) Improving spinning disk confocal microscopy by preventing pinhole cross-talk for intravital imaging. Proc. Natl. Acad. Sci. U.S.A 110: 3399–3404.
+Shimozawa T, Yamagata K, Kondo T, Hayashi S, Shitamukai A, Konno D, Matsuzaki F, Takayama J, Onami S, Nakayama H, and Kosugi Y 
+Shimozawa T, Yamagata K, Kondo T, Hayashi S, Shitamukai A, Konno D, Matsuzaki F, Takayama J, Onami S, Nakayama H, Kosugi Y, Watanabe T M, Fujita K, Mimori-Kiyosue Y
+
+27. Chen B-C, Legant W R, Wang K, Shao L, Milkie D E, David-son M W, Janetopoulos C, Wu X S, Hammer III J A, Liu Z, and English B P (2014) Lattice Light-Sheet Microscopy: Imaging Molecules to Embryos at High Spatiotemporal Resolution. Science 346: 417–23.
+Chen B-C, Legant W R, Wang K, Shao L, Milkie D E, David-son M W, Janetopoulos C, Wu X S, Hammer III J A, Liu Z, and English B P 
+Chen B-C, Legant W R, Wang K, Shao L, Milkie D E, Davidson M W, Janetopoulos C, Wu X S, Hammer J A, Liu Z, English B P, Mimori-Kiyosue Y, Romero D P, Ritter A T, Lippincott-Schwartz J, Fritz-Laylin L, Mullins R D, Mitchell D M, Bembenek J N, Reymann A, Böhme R, Grill S W, Wang J T, Seydoux G, Tulu U S, Kiehart D P, Betzig E
+
+28. Liu T-L, Upadhyayula S, Milkie D E, Singh V, Wang K, Swinburne I A, Mosaliganti K R, Collins Z M, Hiscock T W, Shea J, Kohrman A Q (2018) Observing the Cell in Its Native State: Imaging Subcellular Dynamics in Multicellular Organisms. Science 360: eaaq1392.
+Liu T-L, Upadhyayula S, Milkie D E, Singh V, Wang K, Swinburne I A, Mosaliganti K R, Collins Z M, Hiscock T W, Shea J, Kohrman A Q 
+Liu T, Upadhyayula S, Milkie D E, Singh V, Wang K, Swinburne I A, Mosaliganti K R, Collins Z M, Hiscock T W, Shea J, Kohrman A Q, Medwig T N, Dambournet D, Forster R, Cunniff B, Ruan Y, Yashiro H, Scholpp S, Meyerowitz E M, Hockemeyer D, Drubin D G, Martin B L, Matus D Q, Koyama M, Megason S G, Kirchhausen T, Betzig E
+
+49. Barbier de Reuille P, Routier-Kierzkowska A L, Kierzkowski D, Bassel G W, Schüpbach T, Tauriello G, Bajpai N, Strauss S, Weber A, Kiss A, and Burian A (2015) MorphoGraphX: a platform for quantifying morphogenesis in 4D. eLife 4: e05864.
+Barbier de Reuille P, Routier-Kierzkowska A L, Kierzkowski D, Bassel G W, Schüpbach T, Tauriello G, Bajpai N, Strauss S, Weber A, Kiss A, and Burian A 
+Barbier de Reuille P, Routier-Kierzkowska A, Kierzkowski D, Bassel G W, Schüpbach T, Tauriello G, Bajpai N, Strauss S, Weber A, Kiss A, Burian A, Hofhuis H, Sapala A, Lipowczan M, Heimlicher M B, Robinson S, Bayer E M, Basler K, Koumoutsakos P, Roeder A H, Aegerter-Wilmsen T, Nakayama N, Tsiantis M, Hay A, Kwiatkowska D, Xenarios I, Kuhlemeier C, Smith R S
+
+50. Strauss S, Runions A, Lane B, Eschweiler D, Bajpai N, Trozzi N, Routier-Kierzkowska A L, Yoshida S, da Silveira S R, Vijayan A, and Tofanelli R (2022) Using positional information to provide context for biological image analysis with MorphoGraphX 2.0. eLife 11: e72601.
+Strauss S, Runions A, Lane B, Eschweiler D, Bajpai N, Trozzi N, Routier-Kierzkowska A L, Yoshida S, da Silveira S R, Vijayan A, and Tofanelli R 
+Strauss S, Runions A, Lane B, Eschweiler D, Bajpai N, Trozzi N, Routier-Kierzkowska A, Yoshida S, Rodrigues da Silveira S, Vijayan A, Tofanelli R, Majda M, Echevin E, Le Gloanec C, Bertrand-Rakusova H, Adibi M, Schneitz K, Bassel G W, Kierzkowski D, Stegmaier J, Tsiantis M, Smith R S
+
+66. Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T, Preibisch S, Rueden C, Saalfeld S, Schmid B, and Tinevez J Y (2012) Fiji: an open-source platform for biological-image analysis. Nat. Methods 9: 676–82.
+Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T, Preibisch S, Rueden C, Saalfeld S, Schmid B, and Tinevez J Y 
+Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T, Preibisch S, Rueden C, Saalfeld S, Schmid B, Tinevez J, White D J, Hartenstein V, Eliceiri K, Tomancak P, Cardona A
+
+68. Ouyang W, Beuttenmueller F, Gómez-de-Mariscal E, Pape C, Burke T, Garcia-López-de-Haro C, Russell C, Moya-Sans L, de-la-Torre-Gutiérrez C, Schmidt D, and Kutra D (2022) BioIm-age Model Zoo: a community-driven resource for accessi-ble deep learning in bioimage analysis. bioRxiv 2022.06.07.495102.
+Ouyang W, Beuttenmueller F, Gómez-de-Mariscal E, Pape C, Burke T, Garcia-López-de-Haro C, Russell C, Moya-Sans L, de-la-Torre-Gutiérrez C, Schmidt D, and Kutra D 
+Ouyang W, Beuttenmueller F, Gómez-de-Mariscal E, Pape C, Burke T, Garcia-López-de-Haro C, Russell C, Moya-Sans L, de-la-Torre-Gutiérrez C, Schmidt D, Kutra D, Novikov M, Weigert M, Schmidt U, Bankhead P, Jacquemet G, Sage D, Henriques R, Muñoz-Barrutia A, Lundberg E, Jug F, Kreshuk A
+
+69. Berg S, Kutra D, Kroeger T, Straehle C N, Kausler B X, Haubold C, Schiegg M, Ales J, Beier T, Rudy M, and Eren K (2019) Ilastik: interactive machine learning for (bio)image analysis. Nat. Methods 16: 1226–1232.
+Berg S, Kutra D, Kroeger T, Straehle C N, Kausler B X, Haubold C, Schiegg M, Ales J, Beier T, Rudy M, and Eren K 
+Berg S, Kutra D, Kroeger T, Straehle C N, Kausler B X, Haubold C, Schiegg M, Ales J, Beier T, Rudy M, Eren K, Cervantes J I, Xu B, Beuttenmueller F, Wolny A, Zhang C, Koethe U, Hamprecht F A, Kreshuk A
+
+71. de Chaumont F, Dallongeville S, Chenouard N, Hervé N, Pop S, Provoost T, Meas-Yedid V, Pankajakshan P, Lecomte T, Le Montagner Y, and Lagache T (2012) Icy: an open bioimage informatics platform for extended reproducible research. Nat. Methods 9: 690–696.
+de Chaumont F, Dallongeville S, Chenouard N, Hervé N, Pop S, Provoost T, Meas-Yedid V, Pankajakshan P, Lecomte T, Le Montagner Y, and Lagache T 
+de Chaumont F, Dallongeville S, Chenouard N, Hervé N, Pop S, Provoost T, Meas-Yedid V, Pankajakshan P, Lecomte T, Le Montagner Y, Lagache T, Dufour A, Olivo-Marin J
+
+72. Bankhead P, Loughrey M B, Fernández J A, Dombrowski Y, McArt D G, Dunne P D, McQuaid S, Gray R T, Murray L J, Coleman H G, James J A (2017) QuPath: open source software for digital pathology image analysis. Sci. Rep. 7: 1–7.
+Bankhead P, Loughrey M B, Fernández J A, Dombrowski Y, McArt D G, Dunne P D, McQuaid S, Gray R T, Murray L J, Coleman H G, James J A 
+Bankhead P, Loughrey M B, Fernández J A, Dombrowski Y, McArt D G, Dunne P D, McQuaid S, Gray R T, Murray L J, Coleman H G, James J A, Salto-Tellez M, Hamilton P W
+
+73. Greenwald N F, Miller G, Moen E, Kong A, Kagel A, Dougherty T, Fullaway C C, McIntosh B J, Leow K X, Schwartz M S, and Pavelchek C (2022) Whole-cell segmentation of tissue images with human-level performance using large-scale data annotation and deep learning. Nat. Biotechnol. 40: 555–565.
+Greenwald N F, Miller G, Moen E, Kong A, Kagel A, Dougherty T, Fullaway C C, McIntosh B J, Leow K X, Schwartz M S, and Pavelchek C 
+Greenwald N F, Miller G, Moen E, Kong A, Kagel A, Dougherty T, Fullaway C C, McIntosh B J, Leow K X, Schwartz M S, Pavelchek C, Cui S, Camplisson I, Bar-Tal O, Singh J, Fong M, Chaudhry G, Abraham Z, Moseley J, Warshawsky S, Soon E, Greenbaum S, Risom T, Hollmann T, Bendall S C, Keren L, Graf W, Angelo M, Van Valen D
+
+75. Chamier L von, Laine R F, Jukkala J, Spahn C, Krentzel D, Nehme E, Lerche M, Hernández-Pérez S, Mattila P K, Karinou E, Holden S (2021) Democratising deep learning for microscopy with ZeroCostDL4Mic. Nat. Commun. 12: 2276.
+Chamier L von, Laine R F, Jukkala J, Spahn C, Krentzel D, Nehme E, Lerche M, Hernández-Pérez S, Mattila P K, Karinou E, Holden S 
+von Chamier L, Laine R F, Jukkala J, Spahn C, Krentzel D, Nehme E, Lerche M, Hernández-Pérez S, Mattila P K, Karinou E, Holden S, Solak A C, Krull A, Buchholz T, Jones M L, Royer L A, Leterrier C, Shechtman Y, Jug F, Heilemann M, Jacquemet G, Henriques R
+
+87. Ershov D, Phan M S, Pylvänäinen J W, Rigaud S U, Le Blanc L, Charles-Orszag A, Conway J R, Laine R F, Roy N H, Bonazzi D, and Duménil G (2022) TrackMate 7: integrating state-of-the-art segmentation algorithms into tracking pipelines. Nat. Methods19: 829–832.
+Ershov D, Phan M S, Pylvänäinen J W, Rigaud S U, Le Blanc L, Charles-Orszag A, Conway J R, Laine R F, Roy N H, Bonazzi D, and Duménil G 
+Ershov D, Phan M, Pylvänäinen J W, Rigaud S U, Le Blanc L, Charles-Orszag A, Conway J R W, Laine R F, Roy N H, Bonazzi D, Duménil G, Jacquemet G, Tinevez J
+
+99. Ulman V, Maška M, Magnusson KE, Ronneberger O, Haubold C, Harder N, Matula P, Matula P, Svoboda D, Radojevic M, and Smal I (2017) An objective comparison of cell-tracking algorithms. Nat. Methods 14: 1141–1152.
+Ulman V, Maška M, Magnusson KE, Ronneberger O, Haubold C, Harder N, Matula P, Matula P, Svoboda D, Radojevic M, and Smal I 
+Ulman V, Maška M, Magnusson K E G, Ronneberger O, Haubold C, Harder N, Matula P, Matula P, Svoboda D, Radojevic M, Smal I, Rohr K, Jaldén J, Blau H M, Dzyubachyk O, Lelieveldt B, Xiao P, Li Y, Cho S, Dufour A C, Olivo-Marin J, Reyes-Aldasoro C C, Solis-Lemus J A, Bensch R, Brox T, Stegmaier J, Mikut R, Wolf S, Hamprecht F A, Esteves T, Quelhas P, Demirel Ö, Malmström L, Jug F, Tomancak P, Meijering E, Muñoz-Barrutia A, Kozubek M, Ortiz-de-Solorzano C
+
+100. Caicedo J C, Goodman A, Karhohs KW, Cimini BA, Ackerman J, Haghighi M, Heng C, Becker T, Doan M, McQuin C, and Rohban M (2019) Nucleus segmentation across imaging experiments: the 2018 Data Science Bowl. Nat. Methods 16: 1247–1253.
+Caicedo J C, Goodman A, Karhohs KW, Cimini BA, Ackerman J, Haghighi M, Heng C, Becker T, Doan M, McQuin C, and Rohban M 
+Caicedo J C, Goodman A, Karhohs K W, Cimini B A, Ackerman J, Haghighi M, Heng C, Becker T, Doan M, McQuin C, Rohban M, Singh S, Carpenter A E
+
+101. Nunley H, Shao B, Grover P, Singh J, Joyce B, Kim-Yip R, Kohrman A, Watters A, Gal Z, Kickuth A, Chalifoux M (2023) A novel ground truth dataset enables robust 3D nuclear instance segmentation in early mouse embryos. bioRxiv2023.03.14.532646.
+Nunley H, Shao B, Grover P, Singh J, Joyce B, Kim-Yip R, Kohrman A, Watters A, Gal Z, Kickuth A, Chalifoux M 
+Nunley H, Shao B, Grover P, Singh J, Joyce B, Kim-Yip R, Kohrman A, Watters A, Gal Z, Kickuth A, Chalifoux M, Shvartsman S, Posfai E, Brown L
+
+102. Maier-Hein L, Eisenmann M, Reinke A, Onogur S, Stankovic M, Scholz P, Arbel T, Bogunovic H, Bradley A P, Carass A, Feldmann C (2018) Why rankings of biomedical image analy-sis competitions should be interpreted with care. Nat. Commun.9: 5217.
+Maier-Hein L, Eisenmann M, Reinke A, Onogur S, Stankovic M, Scholz P, Arbel T, Bogunovic H, Bradley A P, Carass A, Feldmann C 
+Maier-Hein L, Eisenmann M, Reinke A, Onogur S, Stankovic M, Scholz P, Arbel T, Bogunovic H, Bradley A P, Carass A, Feldmann C, Frangi A F, Full P M, van Ginneken B, Hanbury A, Honauer K, Kozubek M, Landman B A, März K, Maier O, Maier-Hein K, Menze B H, Müller H, Neher P F, Niessen W, Rajpoot N, Sharp G C, Sirinukunwattana K, Speidel S, Stock C, Stoyanov D, Taha A A, van der Sommen F, Wang C, Weber M, Zheng G, Jannin P, Kopp-Schneider A
+
+104. Rubens U, Mormont R, Paavolainen L, Bäcker V, Pavie B, Scholz L A, Michiels G, Maška M, Ünay D, Ball G, Hoyoux R (2020) BIAFLOWS: a collaborative framework to reproducibly deploy and benchmark bioimage analysis workflows. Patterns 1: 100040.
+Rubens U, Mormont R, Paavolainen L, Bäcker V, Pavie B, Scholz L A, Michiels G, Maška M, Ünay D, Ball G, Hoyoux R 
+Rubens U, Mormont R, Paavolainen L, Bäcker V, Pavie B, Scholz L A, Michiels G, Maška M, Ünay D, Ball G, Hoyoux R, Vandaele R, Golani O, Stanciu S G, Sladoje N, Paul-Gilloteaux P, Marée R, Tosi S
+
+119. Hilsenbeck O, Schwarzfischer M, Skylaki S, Schauberger B, Hoppe P S, Loeffler D, Kokkaliaris K D, Hastreiter S, Skylaki E, Filipczyk A, and Strasser M (2016) Software tools for single-cell tracking and quantification of cellular and molecular properties. Nat. Biotechnol. 34: 703–706.
+Hilsenbeck O, Schwarzfischer M, Skylaki S, Schauberger B, Hoppe P S, Loeffler D, Kokkaliaris K D, Hastreiter S, Skylaki E, Filipczyk A, and Strasser M 
+Hilsenbeck O, Schwarzfischer M, Skylaki S, Schauberger B, Hoppe P S, Loeffler D, Kokkaliaris K D, Hastreiter S, Skylaki E, Filipczyk A, Strasser M, Buggenthin F, Feigelman J S, Krumsiek J, van den Berg A J J, Endele M, Etzrodt M, Marr C, Theis F J, Schroeder T
+
+122. Schott B, Traub M, Schlagenhauf C, Takamiya M, Antrit-ter T, Bartschat A, Löffler K, Blessing D, Otte J C, Kobit-ski A Y, Nienhaus G U (2018) EmbryoMiner: a new frame-work for interactive knowledge discovery in large-scale cell tracking data of developing embryos. PLoS Comput Biol. 14:e1006128.
+Schott B, Traub M, Schlagenhauf C, Takamiya M, Antrit-ter T, Bartschat A, Löffler K, Blessing D, Otte J C, Kobit-ski A Y, Nienhaus G U 
+Schott B, Traub M, Schlagenhauf C, Takamiya M, Antritter T, Bartschat A, Löffler K, Blessing D, Otte J C, Kobitski A Y, Nienhaus G U, Strähle U, Mikut R, Stegmaier J
+
+130. Hörl D, Rojas Rusak F, Preusser F, Tillberg P, Randel N, Chhetri R K, Cardona A, Keller P J, Harz H, Leonhardt H, Treier M (2019) BigStitcher: reconstructing high-resolution image datasets of cleared and expanded samples. Nat. Methods 16: 870–4.
+Hörl D, Rojas Rusak F, Preusser F, Tillberg P, Randel N, Chhetri R K, Cardona A, Keller P J, Harz H, Leonhardt H, Treier M 
+Hörl D, Rojas Rusak F, Preusser F, Tillberg P, Randel N, Chhetri R K, Cardona A, Keller P J, Harz H, Leonhardt H, Treier M, Preibisch S
+
+176. Yoshiba S, Shiratori H, Kuo IY, Kawasumi A, Shinohara K, Non-aka S, Asai Y, Sasaki G, Belo J A, Sasaki H, and Nakai J (2012) Cilia at the node of mouse embryos sense fluid flow for left-right determination via Pkd2. Science 338: 226–231.
+Yoshiba S, Shiratori H, Kuo IY, Kawasumi A, Shinohara K, Non-aka S, Asai Y, Sasaki G, Belo J A, Sasaki H, and Nakai J 
+Yoshiba S, Shiratori H, Kuo I Y, Kawasumi A, Shinohara K, Nonaka S, Asai Y, Sasaki G, Belo J A, Sasaki H, Nakai J, Dworniczak B, Ehrlich B E, Pennekamp P, Hamada H
+
+178. Minegishi K, Rothé B, Komatsu K R, Ono H, Ikawa Y, Nishimura H, Katoh T A, Kajikawa E, Sai X, Miyashita E, Takaoka K (2021) Fluid flow-induced left-right asymmetric decay of Dand5 mRNA in the mouse embryo requires a Bicc1-Ccr4 RNA degradation complex. Nat. Commun. 12: 4071.
+Minegishi K, Rothé B, Komatsu K R, Ono H, Ikawa Y, Nishimura H, Katoh T A, Kajikawa E, Sai X, Miyashita E, Takaoka K 
+Minegishi K, Rothé B, Komatsu K R, Ono H, Ikawa Y, Nishimura H, Katoh T A, Kajikawa E, Sai X, Miyashita E, Takaoka K, Bando K, Kiyonari H, Yamamoto T, Saito H, Constam D B, Hamada H
+
+182. Lohoff T, Ghazanfar S, Missarova A, Koulena N, Pierson N, Grif-fiths J A, Bardot E S, Eng C H, Tyser R C, Argelaguet R, and Guibentif C. (2022) Integration of spatial and single-cell tran-scriptomic data elucidates mouse organogenesis. Nat. Biotechnol.40: 74–85.
+Lohoff T, Ghazanfar S, Missarova A, Koulena N, Pierson N, Griffiths J A, Bardot E S, Eng C H, Tyser R C, Argelaguet R, and Guibentif C. 
+Lohoff T, Ghazanfar S, Missarova A, Koulena N, Pierson N, Griffiths J A, Bardot E S, Eng C L, Tyser R C V, Argelaguet R, Guibentif C, Srinivas S, Briscoe J, Simons B D, Hadjantonakis A, Göttgens B, Reik W, Nichols J, Cai L, Marioni J C
+
+183. Srivatsan S R, Regier M C, Barkan E, Franks J M, Packer J S, Grosjean P, Duran M, Saxton S, Ladd J J, Spielmann M, and Lois C (2021) Embryo-scale, single-cell spatial transcriptomics. Science 373: 111–117.
+Srivatsan S R, Regier M C, Barkan E, Franks J M, Packer J S, Grosjean P, Duran M, Saxton S, Ladd J J, Spielmann M, and Lois C 
+Srivatsan S R, Regier M C, Barkan E, Franks J M, Packer J S, Grosjean P, Duran M, Saxton S, Ladd J J, Spielmann M, Lois C, Lampe P D, Shendure J, Stevens K R, Trapnell C
+
+188. Moffat J, Grueneberg D A, Yang X, Kim S Y, Kloepfer A M, Hinkle G, Piqani B, Eisenhaure T M, Luo B, Grenier J K, Carpen-ter A E (2006) A lentiviral RNAi library for human and mouse genes applied to an arrayed viral high-content screen. Cell 124: 1283–1298.
+Moffat J, Grueneberg D A, Yang X, Kim S Y, Kloepfer A M, Hinkle G, Piqani B, Eisenhaure T M, Luo B, Grenier J K, Carpen-ter A E 
+Moffat J, Grueneberg D A, Yang X, Kim S Y, Kloepfer A M, Hinkle G, Piqani B, Eisenhaure T M, Luo B, Grenier J K, Carpenter A E, Foo S Y, Stewart S A, Stockwell B R, Hacohen N, Hahn W C, Lander E S, Sabatini D M, Root D E
