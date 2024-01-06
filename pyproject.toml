@@ -16,8 +16,9 @@ classifiers = [
 Changelog = "https://github.com/yfukai/bibverifier/releases"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.8"
 click = ">=8.0.1"
+crossrefapi = "^1.6.0"
 
 [tool.poetry.dev-dependencies]
 Pygments = ">=2.10.0"
