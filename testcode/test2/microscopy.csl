@@ -27,7 +27,7 @@
   </locale>
   <macro name="author">
     <names variable="author">
-      <name sort-separator=" " initialize-with=" " name-as-sort-order="all" delimiter=", " delimiter-precedes-last="always"/>
+      <name and="text" delimiter-precedes-last="contextual" sort-separator=" " initialize-with=" " name-as-sort-order="all" delimiter=", "/>
       <substitute>
         <names variable="editor"/>
         <names variable="translator"/>
@@ -56,7 +56,7 @@
         </group>
       </if>
       <else>
-        <text variable="title"/>
+        <text variable="title" text-case="sentence"/>
       </else>
     </choose>
   </macro>
@@ -73,8 +73,8 @@
       <text variable="citation-number"/>
     </layout>
   </citation>
-  <bibliography et-al-min="10" et-al-use-first="10" second-field-align="flush">
-    <layout>
+  <bibliography et-al-min="11" et-al-use-first="10" second-field-align="flush">
+    <layout suffix=".">
       <text variable="citation-number" suffix=". "/>
       <group delimiter=" ">
         <text macro="author"/>
@@ -118,7 +118,7 @@
                    in long author lists will also be accepted:
                    Smith J, Jones M Jr, Houghton L et al (1999)
                    Future of health insurance. N Engl J Med 965:325-329   -->
-              <group prefix=". " delimiter=". ">
+              <group prefix=". ">
                 <group delimiter=" ">
                   <text variable="container-title" form="short"/>
                   <group delimiter=": ">
@@ -126,7 +126,7 @@
                     <text variable="page"/>
                   </group>
                 </group>
-                <text prefix="https://doi.org/" variable="DOI"/>
+                <!--<text prefix="https://doi.org/" variable="DOI"/>-->
               </group>
             </if>
             <else>
