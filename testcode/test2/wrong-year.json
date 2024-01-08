@@ -1,0 +1,427 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                2
+            ]
+        ],
+        "date-time": "2024-01-02T11:40:49Z",
+        "timestamp": 1704195649664
+    },
+    "reference-count": 19,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2014,
+                        12,
+                        30
+                    ]
+                ],
+                "date-time": "2014-12-30T00:00:00Z",
+                "timestamp": 1419897600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.springer.com/tdm"
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "link.springer.com"
+        ],
+        "crossmark-restriction": false
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2015,
+                1
+            ]
+        ]
+    },
+    "DOI": "10.1038/nmeth.3222",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2014,
+                12,
+                30
+            ]
+        ],
+        "date-time": "2014-12-30T16:13:54Z",
+        "timestamp": 1419956034000
+    },
+    "page": "30-34",
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 158,
+    "title": "Guide to light-sheet microscopy for adventurous biologists",
+    "prefix": "10.1038",
+    "volume": "12",
+    "author": [
+        {
+            "given": "Emmanuel G",
+            "family": "Reynaud",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Jan",
+            "family": "Peychl",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0001-7250-3756",
+            "authenticated-orcid": false,
+            "given": "Jan",
+            "family": "Huisken",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-2222-9370",
+            "authenticated-orcid": false,
+            "given": "Pavel",
+            "family": "Tomancak",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "297",
+    "published-online": {
+        "date-parts": [
+            [
+                2014,
+                12,
+                30
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "BFnmeth3222_CR1",
+            "doi-asserted-by": "publisher",
+            "first-page": "1007",
+            "DOI": "10.1126/science.1100035",
+            "volume": "305",
+            "author": "J Huisken",
+            "year": "2004",
+            "unstructured": "Huisken, J., Swoger, J., Del Bene, F., Wittbrodt, J. & Stelzer, E.H.K. Science 305, 1007\u20131009 (2004).",
+            "journal-title": "Science"
+        },
+        {
+            "key": "BFnmeth3222_CR2",
+            "doi-asserted-by": "publisher",
+            "first-page": "2608",
+            "DOI": "10.1364/OL.32.002608",
+            "volume": "32",
+            "author": "J Huisken",
+            "year": "2007",
+            "unstructured": "Huisken, J. & Stainier, D.Y.R. Opt. Lett. 32, 2608\u20132610 (2007).",
+            "journal-title": "Opt. Lett."
+        },
+        {
+            "key": "BFnmeth3222_CR3",
+            "doi-asserted-by": "publisher",
+            "first-page": "331",
+            "DOI": "10.1038/nmeth1036",
+            "volume": "4",
+            "author": "H-U Dodt",
+            "year": "2007",
+            "unstructured": "Dodt, H.-U. et al. Nat. Methods 4, 331\u2013336 (2007).",
+            "journal-title": "Nat. Methods"
+        },
+        {
+            "key": "BFnmeth3222_CR4",
+            "doi-asserted-by": "publisher",
+            "first-page": "1032",
+            "DOI": "10.1038/nbt.2713",
+            "volume": "31",
+            "author": "Y Wu",
+            "year": "2013",
+            "unstructured": "Wu, Y. et al. Nat. Biotechnol. 31, 1032\u20131038 (2013).",
+            "journal-title": "Nat. Biotechnol."
+        },
+        {
+            "key": "BFnmeth3222_CR5",
+            "doi-asserted-by": "publisher",
+            "first-page": "1257998",
+            "DOI": "10.1126/science.1257998",
+            "volume": "346",
+            "author": "B-C Chen",
+            "year": "2014",
+            "unstructured": "Chen, B.-C. et al. Science 346, 1257998 (2014).",
+            "journal-title": "Science"
+        },
+        {
+            "key": "BFnmeth3222_CR6",
+            "doi-asserted-by": "publisher",
+            "first-page": "755",
+            "DOI": "10.1038/nmeth.2062",
+            "volume": "9",
+            "author": "R Tomer",
+            "year": "2012",
+            "unstructured": "Tomer, R., Khairy, K., Amat, F. & Keller, P.J. Nat. Methods 9, 755\u2013763 (2012).",
+            "journal-title": "Nat. Methods"
+        },
+        {
+            "key": "BFnmeth3222_CR7",
+            "doi-asserted-by": "publisher",
+            "first-page": "730",
+            "DOI": "10.1038/nmeth.2064",
+            "volume": "9",
+            "author": "U Krzic",
+            "year": "2012",
+            "unstructured": "Krzic, U., Gunther, S., Saunders, T.E., Streichan, S.J. & Hufnagel, L. Nat. Methods 9, 730\u2013733 (2012).",
+            "journal-title": "Nat. Methods"
+        },
+        {
+            "key": "BFnmeth3222_CR8",
+            "doi-asserted-by": "publisher",
+            "first-page": "2207",
+            "DOI": "10.1038/ncomms3207",
+            "volume": "4",
+            "author": "B Schmid",
+            "year": "2013",
+            "unstructured": "Schmid, B. et al. Nat. Commun. 4, 2207 (2013).",
+            "journal-title": "Nat. Commun."
+        },
+        {
+            "key": "BFnmeth3222_CR9",
+            "doi-asserted-by": "publisher",
+            "first-page": "598",
+            "DOI": "10.1038/nmeth.2507",
+            "volume": "10",
+            "author": "PG Pitrone",
+            "year": "2013",
+            "unstructured": "Pitrone, P.G. et al. Nat. Methods 10, 598\u2013599 (2013).",
+            "journal-title": "Nat. Methods"
+        },
+        {
+            "key": "BFnmeth3222_CR10",
+            "doi-asserted-by": "publisher",
+            "first-page": "599",
+            "DOI": "10.1038/nmeth.2508",
+            "volume": "10",
+            "author": "EJ Gualda",
+            "year": "2013",
+            "unstructured": "Gualda, E.J. et al. Nat. Methods 10, 599\u2013600 (2013).",
+            "journal-title": "Nat. Methods"
+        },
+        {
+            "key": "BFnmeth3222_CR11",
+            "doi-asserted-by": "publisher",
+            "first-page": "3242",
+            "DOI": "10.1242/dev.082586",
+            "volume": "139",
+            "author": "A Kaufmann",
+            "year": "2012",
+            "unstructured": "Kaufmann, A., Mickoleit, M., Weber, M. & Huisken, J. Development 139, 3242\u20133247 (2012).",
+            "journal-title": "Development"
+        },
+        {
+            "key": "BFnmeth3222_CR12",
+            "doi-asserted-by": "publisher",
+            "first-page": "128",
+            "DOI": "10.1111/jmi.12051",
+            "volume": "251",
+            "author": "A Desmaison",
+            "year": "2013",
+            "unstructured": "Desmaison, A., Lorenzo, C., Rouquette, J., Ducommun, B. & Lobjois, V. J. Microsc. 251, 128\u2013132 (2013).",
+            "journal-title": "J. Microsc."
+        },
+        {
+            "key": "BFnmeth3222_CR13",
+            "doi-asserted-by": "publisher",
+            "first-page": "14474",
+            "DOI": "10.1364/OE.21.014474",
+            "volume": "21",
+            "author": "J Wu",
+            "year": "2013",
+            "unstructured": "Wu, J., Li, J. & Chan, R.K.Y. Opt. Express 21, 14474\u201314480 (2013).",
+            "journal-title": "Opt. Express"
+        },
+        {
+            "key": "BFnmeth3222_CR14",
+            "doi-asserted-by": "publisher",
+            "first-page": "186",
+            "DOI": "10.1002/9783527675418.ch8",
+            "volume-title": "Imaging Marine Life",
+            "author": "J Capoulade",
+            "year": "2013",
+            "unstructured": "Capoulade, J., Reynaud, E.G. & Wachsmuth, M. in Imaging Marine Life (ed. Reynaud, E.G.) 186\u2013209 (Wiley-VCH, 2013)."
+        },
+        {
+            "key": "BFnmeth3222_CR15",
+            "doi-asserted-by": "publisher",
+            "first-page": "418",
+            "DOI": "10.1038/nmeth0610-418",
+            "volume": "7",
+            "author": "S Preibisch",
+            "year": "2010",
+            "unstructured": "Preibisch, S., Saalfeld, S., Schindelin, J. & Tomancak, P. Nat. Methods 7, 418\u2013419 (2010).",
+            "journal-title": "Nat. Methods"
+        },
+        {
+            "key": "BFnmeth3222_CR16",
+            "doi-asserted-by": "publisher",
+            "first-page": "418",
+            "DOI": "10.1038/nmeth0610-418",
+            "volume": "7",
+            "author": "S Preibisch",
+            "year": "2010",
+            "unstructured": "Preibisch, S. et al. Nat. Methods 7, 418\u2013419 (2010).",
+            "journal-title": "Nat. Methods"
+        },
+        {
+            "key": "BFnmeth3222_CR17",
+            "doi-asserted-by": "publisher",
+            "first-page": "1984",
+            "DOI": "10.1093/bioinformatics/btp266",
+            "volume": "25",
+            "author": "S Saalfeld",
+            "year": "2009",
+            "unstructured": "Saalfeld, S., Cardona, A., Hartenstein, V. & Tomancak, P. Bioinformatics 25, 1984\u20131986 (2009).",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "BFnmeth3222_CR18",
+            "doi-asserted-by": "publisher",
+            "first-page": "951",
+            "DOI": "10.1038/nmeth.3036",
+            "volume": "11",
+            "author": "F Amat",
+            "year": "2014",
+            "unstructured": "Amat, F. et al. Nat. Methods 11, 951\u2013958 (2014).",
+            "journal-title": "Nat. Methods"
+        },
+        {
+            "key": "BFnmeth3222_CR19",
+            "doi-asserted-by": "publisher",
+            "first-page": "697",
+            "DOI": "10.1038/nmeth.2084",
+            "volume": "9",
+            "author": "KW Eliceiri",
+            "year": "2012",
+            "unstructured": "Eliceiri, K.W. et al. Nat. Methods 9, 697\u2013710 (2012).",
+            "journal-title": "Nat. Methods"
+        }
+    ],
+    "container-title": "Nature Methods",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://www.nature.com/articles/nmeth.3222.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "http://www.nature.com/articles/nmeth.3222",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "http://www.nature.com/articles/nmeth.3222.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                18
+            ]
+        ],
+        "date-time": "2023-05-18T23:29:50Z",
+        "timestamp": 1684452590000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.nature.com/articles/nmeth.3222"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2014,
+                12,
+                30
+            ]
+        ]
+    },
+    "references-count": 19,
+    "journal-issue": {
+        "issue": "1",
+        "published-print": {
+            "date-parts": [
+                [
+                    2015,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "BFnmeth3222"
+    ],
+    "URL": "http://dx.doi.org/10.1038/nmeth.3222",
+    "relation": {},
+    "ISSN": [
+        "1548-7091",
+        "1548-7105"
+    ],
+    "subject": [
+        "Cell Biology",
+        "Molecular Biology",
+        "Biochemistry",
+        "Biotechnology"
+    ],
+    "container-title-short": "Nat Methods",
+    "published": {
+        "date-parts": [
+            [
+                2014,
+                12,
+                30
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "30 December 2014",
+            "order": 1,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+            }
+        },
+        {
+            "value": "The authors declare no competing financial interests.",
+            "order": 1,
+            "name": "Ethics",
+            "group": {
+                "name": "EthicsHeading",
+                "label": "Competing interests"
+            }
+        }
+    ]
+}
