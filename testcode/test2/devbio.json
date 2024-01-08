@@ -1,0 +1,1332 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                29
+            ]
+        ],
+        "date-time": "2023-12-29T01:20:16Z",
+        "timestamp": 1703812816424
+    },
+    "reference-count": 103,
+    "publisher": "The Company of Biologists",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        2
+                    ]
+                ],
+                "date-time": "2020-03-02T00:00:00Z",
+                "timestamp": 1583107200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 1,
+            "URL": "http://www.biologists.com/user-licence-1-1"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100010665",
+            "name": "H2020 Marie Sk\u0142odowska-Curie Actions",
+            "doi-asserted-by": "crossref",
+            "award": [
+                "664726"
+            ]
+        },
+        {
+            "DOI": "10.13039/100010663",
+            "name": "European Research Council",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "742732"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                3,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:p>Many developmental processes involve the emergence of intercellular fluid-filled lumina. This process of luminogenesis results in a build up of hydrostatic pressure and signalling molecules in the lumen. However, the potential roles of lumina in cellular functions, tissue morphogenesis and patterning have yet to be fully explored. In this Review, we discuss recent findings that describe how pressurized fluid expansion can provide both mechanical and biochemical cues to influence cell proliferation, migration and differentiation. We also review emerging techniques that allow for precise quantification of fluid pressure in vivo and in situ. Finally, we discuss the intricate interplay between luminogenesis, tissue mechanics and signalling, which provide a new dimension for understanding the principles governing tissue self-organization in embryonic development.</jats:p>",
+    "DOI": "10.1242/dev.181297",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                3,
+                2
+            ]
+        ],
+        "date-time": "2020-03-02T14:44:21Z",
+        "timestamp": 1583160261000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 34,
+    "title": "Integration of luminal pressure and signalling in tissue self-organization",
+    "prefix": "10.1242",
+    "volume": "147",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0003-3177-3949",
+            "authenticated-orcid": false,
+            "given": "Chii J.",
+            "family": "Chan",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "European Molecular Biology Laboratory, 69117 Heidelberg, Germany"
+                }
+            ]
+        },
+        {
+            "given": "Takashi",
+            "family": "Hiiragi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "European Molecular Biology Laboratory, 69117 Heidelberg, Germany"
+                },
+                {
+                    "name": "Institute for the Advanced Study of Human Biology (WPI-ASHBi), Kyoto University, Kyoto, 606-8501, Japan"
+                }
+            ]
+        }
+    ],
+    "member": "237",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                3,
+                2
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021042622542596500_DEV181297C1",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.1242/dev.110.1.115",
+            "article-title": "The mechanics of notochord elongation, straightening and stiffening in the embryo of Xenopus laevis",
+            "volume": "110",
+            "author": "Adams",
+            "year": "1990",
+            "journal-title": "Development"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C2",
+            "doi-asserted-by": "publisher",
+            "first-page": "14843",
+            "DOI": "10.1073/pnas.1309482110",
+            "article-title": "Cellular capsules as a tool for multicellular spheroid production and for investigating the mechanics of tumor progression in vitro",
+            "volume": "110",
+            "author": "Alessandri",
+            "year": "2013",
+            "journal-title": "Proc. Natl. Acad. Sci. USA"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C3",
+            "doi-asserted-by": "publisher",
+            "first-page": "1110",
+            "DOI": "10.1242/dev.100313",
+            "article-title": "Single continuous lumen formation in the zebrafish gut is mediated by smoothened-dependent tissue remodeling",
+            "volume": "141",
+            "author": "Alvers",
+            "year": "2014",
+            "journal-title": "Development"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C4",
+            "first-page": "1841",
+            "article-title": "Reliable measurement of mouse intraocular pressure by a servo-null micropipette system",
+            "volume": "42",
+            "author": "Avila",
+            "year": "2001",
+            "journal-title": "Invest. Ophthalmol. Vis. Sci."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C5",
+            "doi-asserted-by": "publisher",
+            "first-page": "954",
+            "DOI": "10.1038/ncb1621",
+            "article-title": "Genetic control of single lumen formation in the zebrafish gut",
+            "volume": "9",
+            "author": "Bagnat",
+            "year": "2007",
+            "journal-title": "Nat. Cell Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C6",
+            "doi-asserted-by": "publisher",
+            "first-page": "523",
+            "DOI": "10.1038/nature25742",
+            "article-title": "Tissue stiffening coordinates morphogenesis by triggering collective cell migration in vivo",
+            "volume": "554",
+            "author": "Barriga",
+            "year": "2018",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C7",
+            "doi-asserted-by": "publisher",
+            "first-page": "2448",
+            "DOI": "10.1016/j.bpj.2015.03.035",
+            "article-title": "Quantifying hydrostatic pressure in plant cells by using indentation with an atomic force microscope",
+            "volume": "108",
+            "author": "Beauzamy",
+            "year": "2015",
+            "journal-title": "Biophys. J."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C8",
+            "doi-asserted-by": "publisher",
+            "first-page": "575",
+            "DOI": "10.1146/annurev-cellbio-100814-125323",
+            "article-title": "Polarized protein transport and lumen formation during epithelial tissue morphogenesis",
+            "volume": "31",
+            "author": "Blasky",
+            "year": "2015",
+            "journal-title": "Annu. Rev. Cell Dev. Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C9",
+            "doi-asserted-by": "publisher",
+            "first-page": "171",
+            "DOI": "10.1016/j.devcel.2014.08.027",
+            "article-title": "A molecular switch for the orientation of epithelial cell polarization",
+            "volume": "31",
+            "author": "Bryant",
+            "year": "2014",
+            "journal-title": "Dev. Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C10",
+            "doi-asserted-by": "publisher",
+            "first-page": "343",
+            "DOI": "10.1038/nmat4206",
+            "article-title": "Hydraulic fracture during epithelial stretching",
+            "volume": "14",
+            "author": "Casares",
+            "year": "2015",
+            "journal-title": "Nat. Mater."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C11",
+            "doi-asserted-by": "publisher",
+            "first-page": "33148",
+            "DOI": "10.1038/srep33148",
+            "article-title": "Probing the luminal microenvironment of reconstituted epithelial microtissues",
+            "volume": "6",
+            "author": "Cerchiari",
+            "year": "2016",
+            "journal-title": "Sci. Rep."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C12",
+            "doi-asserted-by": "publisher",
+            "first-page": "R1024",
+            "DOI": "10.1016/j.cub.2017.07.010",
+            "article-title": "Coordination of morphogenesis and cell-fate specification in development",
+            "volume": "27",
+            "author": "Chan",
+            "year": "2017",
+            "journal-title": "Curr. Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C13",
+            "doi-asserted-by": "publisher",
+            "first-page": "1063",
+            "DOI": "10.1016/j.bpj.2017.01.022",
+            "article-title": "Volume transitions of isolated cell nuclei induced by rapid temperature increase",
+            "volume": "112",
+            "author": "Chan",
+            "year": "2017",
+            "journal-title": "Biophys. J."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C14",
+            "doi-asserted-by": "publisher",
+            "first-page": "112",
+            "DOI": "10.1038/s41586-019-1309-x",
+            "article-title": "Hydraulic control of mammalian embryo size and cell fate",
+            "volume": "571",
+            "author": "Chan",
+            "year": "2019",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C15",
+            "doi-asserted-by": "publisher",
+            "first-page": "10412",
+            "DOI": "10.1038/ncomms10412",
+            "article-title": "CLIC4 regulates apical exocytosis and renal tube luminogenesis through retromer- and actin-mediated endocytic trafficking",
+            "volume": "7",
+            "author": "Chou",
+            "year": "2016",
+            "journal-title": "Nat. Commun."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C16",
+            "doi-asserted-by": "publisher",
+            "first-page": "3557",
+            "DOI": "10.1038/s41467-019-11482-5",
+            "article-title": "Morphogenesis of extra-embryonic tissues directs the remodelling of the mouse embryo at implantation",
+            "volume": "10",
+            "author": "Christodoulou",
+            "year": "2019",
+            "journal-title": "Nat. Commun."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C17",
+            "doi-asserted-by": "publisher",
+            "first-page": "2855",
+            "DOI": "10.1529/biophysj.105.062554",
+            "article-title": "Power-law rheology of isolated nuclei with deformation mapping of nuclear substructures",
+            "volume": "89",
+            "author": "Dahl",
+            "year": "2005",
+            "journal-title": "Biophys. J."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C18",
+            "doi-asserted-by": "publisher",
+            "first-page": "E4751",
+            "DOI": "10.1073/pnas.1722154115",
+            "article-title": "Physics of lumen growth",
+            "volume": "115",
+            "author": "Dasgupta",
+            "year": "2018",
+            "journal-title": "Proc. Natl. Acad. Sci. USA"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C19",
+            "doi-asserted-by": "publisher",
+            "first-page": "R126",
+            "DOI": "10.1016/j.cub.2010.12.003",
+            "article-title": "Molecular regulation of lumen morphogenesis",
+            "volume": "21",
+            "author": "Datta",
+            "year": "2011",
+            "journal-title": "Curr. Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C20",
+            "doi-asserted-by": "publisher",
+            "first-page": "338",
+            "DOI": "10.1016/j.cell.2018.05.042",
+            "article-title": "mTORC1 controls phase separation and the biophysical properties of the cytoplasm by tuning crowding",
+            "volume": "174",
+            "author": "Delarue",
+            "year": "2018",
+            "journal-title": "Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C21",
+            "doi-asserted-by": "publisher",
+            "first-page": "188",
+            "DOI": "10.1016/0012-1606(77)90364-5",
+            "article-title": "Embryonic brain enlargement requires cerebrospinal fluid pressure",
+            "volume": "57",
+            "author": "Desmond",
+            "year": "1977",
+            "journal-title": "Dev. Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C22",
+            "doi-asserted-by": "publisher",
+            "first-page": "737",
+            "DOI": "10.1002/ar.a.20211",
+            "article-title": "Internal luminal pressure during early chick embryonic brain growth: descriptive and empirical observations",
+            "volume": "285A",
+            "author": "Desmond",
+            "year": "2005",
+            "journal-title": "Anat. Rec. A"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C23",
+            "doi-asserted-by": "publisher",
+            "first-page": "14056",
+            "DOI": "10.1038/ncomms14056",
+            "article-title": "Cell-like pressure sensors reveal increase of mechanical stress towards the core of multicellular spheroids under compression",
+            "volume": "8",
+            "author": "Dolega",
+            "year": "2017",
+            "journal-title": "Nat. Commun."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C24",
+            "doi-asserted-by": "publisher",
+            "first-page": "488635",
+            "DOI": "10.1101/488635",
+            "article-title": "Extracellular matrix acts as pressure detector in biological tissues",
+            "author": "Dolega",
+            "year": "2018",
+            "journal-title": "BioRxiv"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C25",
+            "doi-asserted-by": "publisher",
+            "first-page": "941",
+            "DOI": "10.1016/j.celrep.2014.03.066",
+            "article-title": "Balance between apical membrane growth and luminal matrix resistance determines epithelial tubule shape",
+            "volume": "7",
+            "author": "Dong",
+            "year": "2014",
+            "journal-title": "Cell Rep."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C26",
+            "doi-asserted-by": "publisher",
+            "first-page": "19264",
+            "DOI": "10.1073/pnas.1908481116",
+            "article-title": "Fluid pumping and active flexoelectricity can promote lumen nucleation in cell assemblies",
+            "volume": "116",
+            "author": "Duclut",
+            "year": "2019",
+            "journal-title": "Proc. Natl. Acad. Sci. USA"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C27",
+            "doi-asserted-by": "publisher",
+            "first-page": "465",
+            "DOI": "10.1126/science.aaw7709",
+            "article-title": "Hydraulic fracturing and active coarsening position the lumen of the mouse blastocyst",
+            "volume": "365",
+            "author": "Dumortier",
+            "year": "2019",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C28",
+            "doi-asserted-by": "publisher",
+            "first-page": "120",
+            "DOI": "10.1038/nature13852",
+            "article-title": "Luminal signalling links cell communication to tissue architecture during organogenesis",
+            "volume": "515",
+            "author": "Durdu",
+            "year": "2014",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C29",
+            "doi-asserted-by": "publisher",
+            "first-page": "421",
+            "DOI": "10.1016/j.devcel.2009.01.008",
+            "article-title": "Cadherin adhesion, tissue tension, and noncanonical Wnt signaling regulate fibronectin matrix organization",
+            "volume": "16",
+            "author": "Dzamba",
+            "year": "2009",
+            "journal-title": "Dev. Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C30",
+            "doi-asserted-by": "publisher",
+            "first-page": "546",
+            "DOI": "10.1038/nature10999",
+            "article-title": "Crowding induces live cell extrusion to maintain homeostatic cell numbers in epithelia",
+            "volume": "484",
+            "author": "Eisenhoffer",
+            "year": "2012",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C31",
+            "doi-asserted-by": "publisher",
+            "first-page": "302",
+            "DOI": "10.1016/j.devcel.2016.09.016",
+            "article-title": "A balance between secreted inhibitors and edge sensing controls gastruloid self-organization",
+            "volume": "39",
+            "author": "Etoc",
+            "year": "2016",
+            "journal-title": "Dev. Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C32",
+            "doi-asserted-by": "publisher",
+            "first-page": "460",
+            "DOI": "10.1002/jcb.22437",
+            "article-title": "The effects of osmotic stress on the structure and function of the cell nucleus",
+            "volume": "109",
+            "author": "Finan",
+            "year": "2010",
+            "journal-title": "J. Cell. Biochem."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C33",
+            "doi-asserted-by": "publisher",
+            "first-page": "6213",
+            "DOI": "10.1038/srep06213",
+            "article-title": "Quantification of surface tension and internal pressure generated by single mitotic cells",
+            "volume": "4",
+            "author": "Fischer-Friedrich",
+            "year": "2014",
+            "journal-title": "Sci. Rep."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C34",
+            "doi-asserted-by": "publisher",
+            "first-page": "1495",
+            "DOI": "10.1093/jxb/erg162",
+            "article-title": "Use of the pressure probe in studies of stomatal function",
+            "volume": "54",
+            "author": "Franks",
+            "year": "2003",
+            "journal-title": "J. Exp. Bot."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C35",
+            "doi-asserted-by": "publisher",
+            "first-page": "202",
+            "DOI": "10.1016/j.ydbio.2007.04.029",
+            "article-title": "Essential role of lysyl oxidases in notochord development",
+            "volume": "307",
+            "author": "Gansner",
+            "year": "2007",
+            "journal-title": "Dev. Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C36",
+            "doi-asserted-by": "publisher",
+            "first-page": "1982",
+            "DOI": "10.1016/j.cub.2017.05.035",
+            "article-title": "Sheath cell invasion and trans-differentiation repair mechanical damage caused by loss of caveolae in the zebrafish notochord",
+            "volume": "27",
+            "author": "Garcia",
+            "year": "2017",
+            "journal-title": "Curr. Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C37",
+            "doi-asserted-by": "publisher",
+            "first-page": "dev174318",
+            "DOI": "10.1242/dev.174318",
+            "article-title": "Molecular and mechanical signals determine morphogenesis of the cerebral hemispheres in the chicken embryo",
+            "volume": "146",
+            "author": "Garcia",
+            "year": "2019",
+            "journal-title": "Development"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C38",
+            "doi-asserted-by": "publisher",
+            "first-page": "746",
+            "DOI": "10.1038/nature04829",
+            "article-title": "Social interactions among epithelial cells during tracheal branching morphogenesis",
+            "volume": "441",
+            "author": "Ghabrial",
+            "year": "2006",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C39",
+            "doi-asserted-by": "publisher",
+            "first-page": "517",
+            "DOI": "10.1038/nnano.2013.118",
+            "article-title": "Silicon chips detect intracellular pressure changes in living cells",
+            "volume": "8",
+            "author": "G\u00f3mez-Mart\u00ednez",
+            "year": "2013",
+            "journal-title": "Nat. Nanotechnol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C40",
+            "doi-asserted-by": "publisher",
+            "first-page": "118",
+            "DOI": "10.1038/nature21407",
+            "article-title": "Mechanical stretch triggers rapid epithelial cell division through Piezo1",
+            "volume": "543",
+            "author": "Gudipaty",
+            "year": "2017",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C41",
+            "doi-asserted-by": "publisher",
+            "first-page": "E8618",
+            "DOI": "10.1073/pnas.1705179114",
+            "article-title": "Cell volume change through water efflux impacts cell stiffness and stem cell fate",
+            "volume": "114",
+            "author": "Guo",
+            "year": "2017",
+            "journal-title": "Proc. Natl. Acad. Sci. USA"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C42",
+            "doi-asserted-by": "publisher",
+            "first-page": "12",
+            "DOI": "10.1016/j.cell.2019.05.052",
+            "article-title": "Mechanochemical feedback loops in development and disease",
+            "volume": "178",
+            "author": "Hannezo",
+            "year": "2019",
+            "journal-title": "Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C43",
+            "doi-asserted-by": "publisher",
+            "first-page": "948",
+            "DOI": "10.1016/j.cell.2013.05.008",
+            "article-title": "Forces in tissue morphogenesis and patterning",
+            "volume": "153",
+            "author": "Heisenberg",
+            "year": "2013",
+            "journal-title": "Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C44",
+            "doi-asserted-by": "publisher",
+            "first-page": "186",
+            "DOI": "10.1038/35025063",
+            "article-title": "Wnt signalling molecules act in axis formation in the diploblastic metazoan Hydra",
+            "volume": "407",
+            "author": "Hobmayer",
+            "year": "2000",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C45",
+            "doi-asserted-by": "publisher",
+            "first-page": "7355",
+            "DOI": "10.1038/ncomms8355",
+            "article-title": "Mitotic cell rounding and epithelial thinning regulate lumen growth and shape",
+            "volume": "6",
+            "author": "Hoijman",
+            "year": "2015",
+            "journal-title": "Nat. Commun."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C46",
+            "doi-asserted-by": "publisher",
+            "first-page": "44",
+            "DOI": "10.1016/j.mod.2014.01.004",
+            "article-title": "Mechanical control of notochord morphogenesis by extra-embryonic tissues in mouse embryos",
+            "volume": "132",
+            "author": "Imuta",
+            "year": "2014",
+            "journal-title": "Mech. Dev."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C47",
+            "doi-asserted-by": "publisher",
+            "first-page": "791",
+            "DOI": "10.1016/j.cell.2009.08.049",
+            "article-title": "Cdc42-mediated tubulogenesis controls cell specification",
+            "volume": "139",
+            "author": "Kesavan",
+            "year": "2009",
+            "journal-title": "Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C106",
+            "doi-asserted-by": "publisher",
+            "first-page": "C652",
+            "DOI": "10.1152/ajpcell.1991.260.3.C652",
+            "article-title": "Direct measurement of intracellular pressure",
+            "volume": "260",
+            "author": "Kelly",
+            "year": "1991",
+            "journal-title": "Am. J. Physiol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C48",
+            "doi-asserted-by": "publisher",
+            "first-page": "1247",
+            "DOI": "10.1242/jeb.056549",
+            "article-title": "The diversity of hydrostatic skeletons",
+            "volume": "215",
+            "author": "Kier",
+            "year": "2012",
+            "journal-title": "J. Exp. Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C49",
+            "doi-asserted-by": "publisher",
+            "first-page": "1271",
+            "DOI": "10.1104/pp.114.245746",
+            "article-title": "Pico gauges for minimally invasive intracellular hydrostatic pressure measurements",
+            "volume": "166",
+            "author": "Knoblauch",
+            "year": "2014",
+            "journal-title": "Plant Physiol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C50",
+            "doi-asserted-by": "publisher",
+            "first-page": "235",
+            "DOI": "10.1016/j.devcel.2017.01.006",
+            "article-title": "The apical domain Is required and sufficient for the first lineage segregation in the mouse embryo",
+            "volume": "40",
+            "author": "Korotkevich",
+            "year": "2017",
+            "journal-title": "Dev. Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C51",
+            "doi-asserted-by": "publisher",
+            "first-page": "1798",
+            "DOI": "10.1242/dev.144964",
+            "article-title": "Interstitial fluid osmolarity modulates the action of differential tissue surface tension in progenitor cell segregation during gastrulation",
+            "volume": "144",
+            "author": "Krens",
+            "year": "2017",
+            "journal-title": "Development"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C52",
+            "doi-asserted-by": "publisher",
+            "first-page": "978",
+            "DOI": "10.1529/biophysj.107.117655",
+            "article-title": "An osmoregulatory basis for shape oscillations in regenerating Hydra",
+            "volume": "95",
+            "author": "K\u00fccken",
+            "year": "2008",
+            "journal-title": "Biophys. J."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C53",
+            "doi-asserted-by": "publisher",
+            "first-page": "440438",
+            "DOI": "10.1101/440438",
+            "article-title": "A gradient in inner pressure of germline cells controls overlaying epithelial cell morphogenesis",
+            "author": "Lamir\u00e9",
+            "year": "2018",
+            "journal-title": "BioRxiv"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C54",
+            "doi-asserted-by": "publisher",
+            "first-page": "203",
+            "DOI": "10.1038/s41586-018-0671-4",
+            "article-title": "Active superelasticity in three-dimensional epithelia of controlled shape",
+            "volume": "563",
+            "author": "Latorre",
+            "year": "2018",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C55",
+            "doi-asserted-by": "publisher",
+            "first-page": "4172",
+            "DOI": "10.1021/acs.nanolett.7b00963",
+            "article-title": "Upconverting nanoparticles as optical sensors of nano- to micro-newton forces",
+            "volume": "17",
+            "author": "Lay",
+            "year": "2017",
+            "journal-title": "Nano Lett."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C56",
+            "doi-asserted-by": "publisher",
+            "first-page": "1211",
+            "DOI": "10.1021/acscentsci.9b00300",
+            "article-title": "Optically robust and biocompatible mechanosensitive upconverting nanoparticles",
+            "volume": "5",
+            "author": "Lay",
+            "year": "2019",
+            "journal-title": "ACS Cent. Sci."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C57",
+            "doi-asserted-by": "publisher",
+            "first-page": "633",
+            "DOI": "10.1038/nrm2222",
+            "article-title": "Cell surface mechanics and the control of cell shape, tissue patterns and morphogenesis",
+            "volume": "8",
+            "author": "Lecuit",
+            "year": "2007",
+            "journal-title": "Nat. Rev. Mol. Cell Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C58",
+            "doi-asserted-by": "publisher",
+            "first-page": "144",
+            "DOI": "10.1038/s41467-018-07967-4",
+            "article-title": "Dispersible hydrogel force sensors reveal patterns of solid mechanical stress in multicellular spheroid cultures",
+            "volume": "10",
+            "author": "Lee",
+            "year": "2019",
+            "journal-title": "Nat. Commun."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C59",
+            "doi-asserted-by": "publisher",
+            "first-page": "10375",
+            "DOI": "10.1073/pnas.1719930115",
+            "article-title": "Mechanics of mouse blastocyst hatching revealed by a hydrogel-based microdeformation assay",
+            "volume": "115",
+            "author": "Leonavicius",
+            "year": "2018",
+            "journal-title": "Proc. Natl. Acad. Sci. USA"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C60",
+            "doi-asserted-by": "publisher",
+            "first-page": "311",
+            "DOI": "10.1038/ncb3310",
+            "article-title": "Extracellular matrix scaffolding guides lumen elongation by inducing anisotropic intercellular mechanical tension",
+            "volume": "18",
+            "author": "Li",
+            "year": "2016",
+            "journal-title": "Nat. Cell Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C61",
+            "doi-asserted-by": "publisher",
+            "first-page": "297",
+            "DOI": "10.1016/j.devcel.2018.01.008",
+            "article-title": "The strength of mechanical forces determines the differentiation of alveolar epithelial cells",
+            "volume": "44",
+            "author": "Li",
+            "year": "2018",
+            "journal-title": "Dev. Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C62",
+            "doi-asserted-by": "publisher",
+            "first-page": "431",
+            "DOI": "10.1146/annurev-bioeng-071910-124638",
+            "article-title": "Mechanical regulation of nuclear structure and function",
+            "volume": "14",
+            "author": "Martins",
+            "year": "2012",
+            "journal-title": "Annu. Rev. Biomed. Eng."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C63",
+            "doi-asserted-by": "publisher",
+            "first-page": "2396",
+            "DOI": "10.1016/j.bpj.2015.03.033",
+            "article-title": "Mechanochemical symmetry breaking in Hydra aggregates",
+            "volume": "108",
+            "author": "Mercker",
+            "year": "2015",
+            "journal-title": "Biophys. J."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C64",
+            "doi-asserted-by": "publisher",
+            "first-page": "617878",
+            "DOI": "10.1101/617878",
+            "article-title": "Metabolic control of YAP via the acto-myosin system during liver regeneration",
+            "author": "Meyer",
+            "year": "2019",
+            "journal-title": "BioRxiv"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C65",
+            "doi-asserted-by": "publisher",
+            "first-page": "1878",
+            "DOI": "10.1038/s41467-018-04245-1",
+            "article-title": "Quantifying compressive forces between living cell layers and within tissues using elastic round microgels",
+            "volume": "9",
+            "author": "Mohagheghian",
+            "year": "2018",
+            "journal-title": "Nat. Commun."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C66",
+            "doi-asserted-by": "publisher",
+            "first-page": "e39596",
+            "DOI": "10.7554/eLife.39596",
+            "article-title": "Size control of the inner ear via hydraulic feedback",
+            "volume": "8",
+            "author": "Mosaliganti",
+            "year": "2019",
+            "journal-title": "eLife"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C67",
+            "doi-asserted-by": "publisher",
+            "first-page": "1118",
+            "DOI": "10.1126/science.aam6603",
+            "article-title": "Single-cell Wnt signaling niches maintain stemness of alveolar type 2 cells",
+            "volume": "359",
+            "author": "Nabhan",
+            "year": "2018",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C68",
+            "doi-asserted-by": "publisher",
+            "first-page": "24",
+            "DOI": "10.1016/j.gde.2015.01.010",
+            "article-title": "Developing pressures: fluid forces driving morphogenesis",
+            "volume": "32",
+            "author": "Navis",
+            "year": "2015",
+            "journal-title": "Curr. Opin. Genet. Dev."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C69",
+            "doi-asserted-by": "publisher",
+            "first-page": "1703",
+            "DOI": "10.1242/dev.091819",
+            "article-title": "Cftr controls lumen expansion and function of Kupffer's vesicle in zebrafish",
+            "volume": "140",
+            "author": "Navis",
+            "year": "2013",
+            "journal-title": "Development"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C70",
+            "doi-asserted-by": "publisher",
+            "first-page": "4328",
+            "DOI": "10.1242/dev.154823",
+            "article-title": "Microfluidic chest cavities reveal that transmural pressure controls the rate of lung development",
+            "volume": "144",
+            "author": "Nelson",
+            "year": "2017",
+            "journal-title": "Development"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C71",
+            "doi-asserted-by": "publisher",
+            "first-page": "398",
+            "DOI": "10.1016/j.devcel.2009.02.003",
+            "article-title": "The Hippo signaling pathway components Lats and Yap pattern Tead4 activity to distinguish mouse trophectoderm from inner cell mass",
+            "volume": "16",
+            "author": "Nishioka",
+            "year": "2009",
+            "journal-title": "Dev. Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C73",
+            "doi-asserted-by": "publisher",
+            "first-page": "1755",
+            "DOI": "10.1007/s00405-011-1813-6",
+            "article-title": "Hydrostatic fluid pressure in the vestibular organ of the guinea pig",
+            "volume": "269",
+            "author": "Park",
+            "year": "2012",
+            "journal-title": "Eur. Arch. Otorhinolaryngol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C74",
+            "doi-asserted-by": "publisher",
+            "first-page": "169",
+            "DOI": "10.1038/s41556-018-0247-4",
+            "article-title": "Fluidization-mediated tissue spreading by mitotic cell rounding and non-canonical Wnt signalling",
+            "volume": "21",
+            "author": "Petridou",
+            "year": "2019",
+            "journal-title": "Nat. Cell Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C75",
+            "doi-asserted-by": "publisher",
+            "first-page": "12.9.1",
+            "DOI": "10.1002/0471143030.cb1209s63",
+            "article-title": "Direct measurement of intracellular pressure",
+            "volume": "63",
+            "author": "Petrie",
+            "year": "2014",
+            "journal-title": "Curr. Protoc. Cell Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C76",
+            "doi-asserted-by": "publisher",
+            "first-page": "1062",
+            "DOI": "10.1126/science.1256965",
+            "article-title": "Generation of compartmentalized pressure by a nuclear piston governs cell motility in a 3D matrix",
+            "volume": "345",
+            "author": "Petrie",
+            "year": "2014",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C77",
+            "doi-asserted-by": "publisher",
+            "first-page": "319",
+            "DOI": "10.1039/c5ib00282f",
+            "article-title": "Interstitial fluid pressure regulates collective invasion in engineered human breast tumors via Snail, vimentin, and E-cadherin",
+            "volume": "8",
+            "author": "Piotrowski-Daspit",
+            "year": "2016",
+            "journal-title": "Integr. Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C78",
+            "doi-asserted-by": "publisher",
+            "first-page": "5344",
+            "DOI": "10.1073/pnas.1813255116",
+            "article-title": "Theory of mechanochemical patterning in biphasic biological tissues",
+            "volume": "116",
+            "author": "Recho",
+            "year": "2019",
+            "journal-title": "Proc. Natl. Acad. Sci. USA"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C79",
+            "doi-asserted-by": "publisher",
+            "first-page": "4422",
+            "DOI": "10.1242/dev.153056",
+            "article-title": "Organ size control via hydraulically gated oscillations",
+            "volume": "144",
+            "author": "Ruiz-Herrero",
+            "year": "2017",
+            "journal-title": "Development"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C80",
+            "doi-asserted-by": "publisher",
+            "first-page": "684",
+            "DOI": "10.1016/j.devcel.2019.10.011",
+            "article-title": "Lumen expansion facilitates epiblast-primitive endoderm fate specification during mouse blastocyst formation",
+            "volume": "51",
+            "author": "Ryan",
+            "year": "2019",
+            "journal-title": "Dev. Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C81",
+            "doi-asserted-by": "publisher",
+            "first-page": "75",
+            "DOI": "10.1016/j.ydbio.2003.09.012",
+            "article-title": "Imaging filopodia dynamics in the mouse blastocyst",
+            "volume": "265",
+            "author": "Salas-vidal",
+            "year": "2004",
+            "journal-title": "Dev. Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C82",
+            "doi-asserted-by": "publisher",
+            "first-page": "70",
+            "DOI": "10.1016/j.gde.2019.06.015",
+            "article-title": "Stay hydrated: basolateral fluids shaping tissues",
+            "volume": "57",
+            "author": "Schliffka",
+            "year": "2019",
+            "journal-title": "Curr. Opin. Genet. Dev."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C83",
+            "doi-asserted-by": "publisher",
+            "first-page": "66",
+            "DOI": "10.1038/s41586-019-1146-y",
+            "article-title": "Self-organization and symmetry breaking in intestinal organoid development",
+            "volume": "569",
+            "author": "Serra",
+            "year": "2019",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C84",
+            "doi-asserted-by": "publisher",
+            "first-page": "239",
+            "DOI": "10.1038/nature24675",
+            "article-title": "Pluripotent state transitions coordinate morphogenesis in mouse and human embryos",
+            "volume": "552",
+            "author": "Shahbazi",
+            "year": "2017",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C85",
+            "doi-asserted-by": "publisher",
+            "first-page": "1463",
+            "DOI": "10.1016/j.cell.2019.04.030",
+            "article-title": "Bulk actin dynamics drive phase segregation in zebrafish oocytes",
+            "volume": "177",
+            "author": "Shamipour",
+            "year": "2019",
+            "journal-title": "Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C86",
+            "doi-asserted-by": "publisher",
+            "first-page": "419",
+            "DOI": "10.1038/nmat4829",
+            "article-title": "Self-organized amniogenesis by human pluripotent stem cells in a biomimetic implantation-like niche",
+            "volume": "16",
+            "author": "Shao",
+            "year": "2016",
+            "journal-title": "Nat. Mater."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C87",
+            "doi-asserted-by": "publisher",
+            "first-page": "5687",
+            "DOI": "10.1039/b805306e",
+            "article-title": "Luminescent rare earth nanomaterials for bioprobe applications",
+            "volume": "9226",
+            "author": "Shen",
+            "year": "2008",
+            "journal-title": "Dalton Trans."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C88",
+            "doi-asserted-by": "publisher",
+            "first-page": "569",
+            "DOI": "10.1016/j.cell.2015.03.041",
+            "article-title": "Bending gradients: how the intestinal stem cell gets its home",
+            "volume": "161",
+            "author": "Shyer",
+            "year": "2015",
+            "journal-title": "Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C89",
+            "doi-asserted-by": "publisher",
+            "first-page": "665",
+            "DOI": "10.1038/nrm3871",
+            "article-title": "Molecular mechanisms of de novo lumen formation",
+            "volume": "15",
+            "author": "Sigurbj\u00f6rnsd\u00f3ttir",
+            "year": "2014",
+            "journal-title": "Nat. Rev. Mol. Cell Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C90",
+            "doi-asserted-by": "publisher",
+            "first-page": "69",
+            "DOI": "10.1038/s41586-019-1485-8",
+            "article-title": "Mechanosensation of cyclical force by PIEZO1 is essential for innate immunity",
+            "volume": "573",
+            "author": "Solis",
+            "year": "2019",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C91",
+            "doi-asserted-by": "publisher",
+            "first-page": "445",
+            "DOI": "10.1016/j.devcel.2019.01.016",
+            "article-title": "Rho flares repair local tight junction leaks",
+            "volume": "48",
+            "author": "Stephenson",
+            "year": "2019",
+            "journal-title": "Dev. Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C92",
+            "doi-asserted-by": "publisher",
+            "first-page": "226",
+            "DOI": "10.1038/nature09642",
+            "article-title": "Hydrostatic pressure and the actomyosin cortex drive mitotic cell rounding",
+            "volume": "469",
+            "author": "Stewart",
+            "year": "2011",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C93",
+            "doi-asserted-by": "publisher",
+            "first-page": "2003",
+            "DOI": "10.1016/j.cub.2010.09.061",
+            "article-title": "Electrostatic cell-surface repulsion initiates lumen formation in developing blood vessels",
+            "volume": "20",
+            "author": "Strili\u0107",
+            "year": "2010",
+            "journal-title": "Curr. Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C94",
+            "doi-asserted-by": "publisher",
+            "first-page": "292",
+            "DOI": "10.1016/j.trecan.2018.02.005",
+            "article-title": "Reengineering the physical microenvironment of tumors to improve drug delivery and efficacy: from mathematical modeling to bench to bedside",
+            "volume": "4",
+            "author": "Stylianopoulos",
+            "year": "2018",
+            "journal-title": "Trends Cancer"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C95",
+            "doi-asserted-by": "publisher",
+            "first-page": "e37131",
+            "DOI": "10.7554/eLife.37131",
+            "article-title": "Lamellar projections in the endolymphatic sac act as a relief valve to regulate inner ear pressure",
+            "volume": "7",
+            "author": "Swinburne",
+            "year": "2018",
+            "journal-title": "eLife"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C96",
+            "doi-asserted-by": "publisher",
+            "first-page": "3219",
+            "DOI": "10.1091/mbc.11.9.3219",
+            "article-title": "Expression of podocalyxin inhibits cell\u2013cell adhesion and modifies junctional properties in Madin-Darby canine kidney cells",
+            "volume": "11",
+            "author": "Takeda",
+            "year": "2000",
+            "journal-title": "Mol. Biol. Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C97",
+            "doi-asserted-by": "publisher",
+            "first-page": "447",
+            "DOI": "10.1146/annurev.arplant.50.1.447",
+            "article-title": "THE PRESSURE PROBE: a versatile tool in plant cell physiology",
+            "volume": "50",
+            "author": "Tomos",
+            "year": "1999",
+            "journal-title": "Annu. Rev. Plant Physiol. Plant Mol. Biol."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C98",
+            "doi-asserted-by": "publisher",
+            "first-page": "17031",
+            "DOI": "10.1038/s41598-019-53425-6",
+            "article-title": "Polyacrylamide bead sensors for in vivo quantification of cell-scale stress in zebrafish development",
+            "volume": "9",
+            "author": "Tr\u00e4ber",
+            "year": "2019",
+            "journal-title": "Sci. Rep."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C99",
+            "doi-asserted-by": "publisher",
+            "first-page": "513119",
+            "DOI": "10.1101/513119",
+            "article-title": "Buckling of epithelium growing under spherical confinement",
+            "author": "Trushko",
+            "year": "2019",
+            "journal-title": "BioRxiv"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C100",
+            "doi-asserted-by": "publisher",
+            "first-page": "214",
+            "DOI": "10.1016/j.devcel.2007.06.008",
+            "article-title": "Sequential pulses of apical epithelial secretion and endocytosis drive airway maturation in Drosophila",
+            "volume": "13",
+            "author": "Tsarouhas",
+            "year": "2007",
+            "journal-title": "Dev. Cell"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C101",
+            "doi-asserted-by": "publisher",
+            "first-page": "746792",
+            "DOI": "10.1101/746792",
+            "article-title": "A geometry-based model describes lumen stability in epithelial cells",
+            "author": "Vasquez",
+            "year": "2019",
+            "journal-title": "BioRxiv"
+        },
+        {
+            "key": "2021042622542596500_DEV181297C102",
+            "doi-asserted-by": "publisher",
+            "first-page": "2443",
+            "DOI": "10.1016/j.bpj.2018.11.008",
+            "article-title": "Characterizing inner pressure and stiffness of trophoblast and inner cell mass of blastocysts",
+            "volume": "115",
+            "author": "Wang",
+            "year": "2018",
+            "journal-title": "Biophys. J."
+        },
+        {
+            "key": "2021042622542596500_DEV181297C103",
+            "doi-asserted-by": "publisher",
+            "first-page": "776",
+            "DOI": "10.1016/j.cell.2018.02.035",
+            "article-title": "Expanding actin rings zipper the mouse embryo for blastocyst formation",
+            "volume": "173",
+            "author": "Zenker",
+            "year": "2018",
+            "journal-title": "Cell"
+        }
+    ],
+    "container-title": "Development",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://syndication.highwire.org/content/doi/10.1242/dev.181297",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://journals.biologists.com/dev/article-pdf/doi/10.1242/dev.181297/1970413/dev181297.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://journals.biologists.com/dev/article-pdf/doi/10.1242/dev.181297/1970413/dev181297.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                27
+            ]
+        ],
+        "date-time": "2021-04-27T01:34:21Z",
+        "timestamp": 1619487261000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://journals.biologists.com/dev/article/147/5/dev181297/223072/Integration-of-luminal-pressure-and-signalling-in"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                3,
+                1
+            ]
+        ]
+    },
+    "references-count": 103,
+    "journal-issue": {
+        "issue": "5",
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    3,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1242/dev.181297",
+    "relation": {},
+    "ISSN": [
+        "1477-9129",
+        "0950-1991"
+    ],
+    "subject": [
+        "Developmental Biology",
+        "Molecular Biology"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                3,
+                1
+            ]
+        ]
+    }
+}
