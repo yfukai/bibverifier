@@ -1,35 +1,19 @@
 1. Barresi M J F and Gilbert S F (2019) Developmental Biology. Twelve edition, (Sinauer Associates Inc, New York).
 18. Smith A M, Mancini M C, and Nie S (2009) Second window for in vivo imaging. Nat. Nanotech. 4: 710–711.
-
-45. van der Walt S, Schönberger J L, Nunez-Iglesias J, Boulogne F, Warner J D, Yager N, Gouillart E, and Yu T (2014) Scikit-Image: image processing in python. PeerJ. 2: e453.
+45. van der Walt S, Schönberger J L, Nunez-Iglesias J, Boulogne F, Warner J D, Yager N, Gouillart E, and Yu T (2014) scikit-image: image processing in Python. PeerJ 2: e453.
 48. Ahlers J, Althviz Moré D, Amsalem O, Anderson A, Bokota G, Boone P, Bragantini J, Buckley G, Burt A, Bussonnier M, Can Solak A, et al. (2023) napari: a multi-dimensional image viewer for Python (v0.4.18). Zenodo. https://doi.org/10.5281/zenodo.8115575.
 53. Watershed Separation. https://imagej.github.io/imaging/watershed.
-54. Zoccoler M L, Müller J R, Korten T, and Haase R (2023) Image data science with Python and Napari @EPFL. https://github.com/BiAPoL/Image-data-science-with-Python-and-Napari-EPFL2022.
-56. Ronneberger O, Fischer P, and Brox T (2015) U-Net: Convolu-tional networks for biomedical image segmentation. In: Navab N, Hornegger J, Wells W M, and Frangi A F (eds.), Med-ical Image Computing and Computer-Assisted Intervention – MICCAI 2015, pp 234–241 (Springer International Publishing, Cham).
-
-58. He K, Gkioxari G, Dollár P, and Girshick R (2017) Mask R-CNN. In: IEEE International Conference on Computer Vision (ICCV) 2017. Venice, Italy, pp 2980–2988.
-60. Weigert M, Schmidt U, Haase R, Sugawara K, and Myers G (2020) Star-convex polyhedra for 3D object detection and seg-mentation in microscopy. In: 2020 IEEE Winter Conference on Applications of Computer Vision (WACV) Snowmass Village, CO, USA, pp 3655–3662 (IEEE).
-61. Mandal S and Uhlmann V (2021) Splinedist: automated cell segmentation with spline curves. In: 2021 IEEE 18th Interna-tional Symposium on Biomedical Imaging (ISBI) Nice, France, pp 1082–1086.
-64. Lalit M, Tomancak P, and Jug F (2021) Embedding-based instance segmentation in microscopy. In: Proceedings of the Fourth Conference on Medical Imaging with Deep LearningLübeck, Germany, pp 399–415 (PMLR).
+54. Zoccoler M L, Müller J R, Korten T, and Haase R (2023) Image data science with Python and Napari @EPFL. https://github.com/BiAPoL/Image-data-science-with-Python-and-Napari-EPFL2022.
+64. Lalit M, Tomancak P, and Jug F (2021) Embedding-based instance segmentation in microscopy. In: Proceedings of the Fourth Conference on Medical Imaging with Deep Learning, Vol. 143, pp 3994–415.
 65. DeepImageJ. https://deepimagej.github.io/.
-
-82. Chen Y, Song Y, Zhang C, Zhang F, O’Donnell L, Chrzanowski W, and Cai W (2021) CellTrack R-CNN: a novel end-to-end deep neural network for cell segmentation and tracking in microscopy images. In: 2021 IEEE 18th International Sympo-sium on Biomedical Imaging (ISBI) Nice, France, pp 779–7
-92. Schiegg M, Hanslovsky P, Kausler B X, Hufnagel L, and Ham-precht F A (2013) Conservation tracking. In: 2013 IEEE Inter-national Conference on Computer Vision Sydney, Australia, pp 2928–2935 (IEEE).
-94. Hirsch P, Malin-Mayor C, Santella A, Preibisch S, Kainmueller D, and Funke J (2022) Tracking by weakly-supervised learning and graph optimization for whole-embryo C. elegans lineages. In: Wang L, Dou Q, Fletcher P T, Speidel S and Li S (eds.), Med-ical Image Computing and Computer Assisted Intervention – MICCAI 2022, pp 25–35 (Springer Nature Switzerland, Cham).
-93. Chenouard N, Bloch I, and Olivo-Marin J-C (2013) Multiple hypothesis tracking for cluttered biological image sequences. IEEE Transactions on Pattern Analysis and Machine Intelligence 35: 2736–3750.
-
+95. Löffler K and Mikut R (2022) EmbedTrack—simultaneous cell segmentation and tracking through learning offsets and cluster-ing bandwidths. IEEE Access 10: 77147–77157.
+96. Ben-Haim T and Raviv T R (2022) Graph neural network for cell tracking in microscopy videos. In: Avidan S, Brostow G, Cissé M, Farinella G M, and Hassner T (eds.), Computer Vision – ECCV 2022, pp 610–626 (Springer Nature Switzerland, Cham).
 97. Moen E, Borba E, Miller G, Schwartz M, Bannon D, Koe N, Cam-plisson I, Kyme D, Pavelchek C, Price T, and Kudo T (2019) Accu-rate cell tracking and lineage construction in live-cell imaging experiments with deep learning. bioRxiv 803205.
-
-105. Kirillov A, Mintun E, Ravi N, Mao H, Rolland C, Gustafson L, Xiao T, Whitehead S, Berg A C, Lo W Y, Dollár P (2023) Segment anything. arXiv 2304.02643.
-
+105. Kirillov A, Mintun E, Ravi N, Mao H, Rolland C, Gustafson L, Xiao T, Whitehead S, Berg A C, Lo W Y, Dollár P (2023) Segment anything. arXiv 2304.02643. https://doi.org/10.48550/arXiv.2304.02643.
 107. Arganda-Carreras I, Rueden C, Colina J S, Schindelin J, Arzt M, Cardona A, Eglinger J, Hiner M, Tinevez J-Y, Freydiere P, Meijering E, and Helfrich S (2022) fiji/Trainable_Segmentation: Trainable_Segmentation-3.3.2. Zenodo. https://doi.org/10.5281/zenodo.5849093.
-
 109. Haase R, Lee D, Pop D D, and Žigutyṫe L (2023) haeslein-huepf/napari-accelerated-pixel-and-object-classification: 0.14.1. Zenodo https://doi.org/10.5281/zenodo.10071078.
 110. YAPiC. (2023) Yet Another Pixel Classifier (Based on Deep Learning). https://github.com/yapic/yapic.
-
+124. Likar B, Maintz J B, Viergever M A, and Pernus F (2000) Ret-rospective shading correction based on entropy minimization. J. Microsc. 197: 285–295.
 129. Fukai Y T (2021) M2Stitch. https://github.com/yfukai/m2stitch.
-
 142. Gosse C and Croquette V (2002) Magnetic tweezers: micro-manipulation and force measurement at the molecular level. Biophys. J. 82: 3314–3329.
-124. Likar B, Maintz J B, Viergever M A, and Pernus F (2000) Retrospective shading correction based on entropy minimization. J. Microsc. 197: 285–295.
-
-96. Ben-Haim T and Raviv T R (2022) Graph neural network for cell tracking in microscopy videos. In: Avidan S, Brostow G, Cissé M, Farinella G M, and Hassner T (eds.), Computer Vision – ECCV 2022, pp 610–626 (Springer Nature Switzerland, Cham).
+166. Shindo A (2018) Models of convergent extension during morpho-genesis. Wiley Interdiscip. Rev. Dev. Biol. 7: e293.
