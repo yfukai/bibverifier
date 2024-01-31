@@ -16,6 +16,7 @@
 15. Katoh T A, Omori T, Ishikawa T, Okada Y, and Hamada H (2023) Biophysical analysis of mechanical signals in immotile cilia of mouse embryonic nodes using advanced microscopic techniques. Bio. Protoc. 13: e4715.
 16. Shimozawa T, Yamagata K, Kondo T, Hayashi S, Shitamukai A, Konno D, Matsuzaki F, Takayama J, Onami S, Nakayama H, Kosugi Y, et al. (2013) Improving spinning disk confocal microscopy by preventing pinhole cross-talk for intravital imaging. Proc. Natl. Acad. Sci. U.S.A. 110: 3399–3404.
 17. Hayashi S and Okada Y (2015) Ultrafast superresolution fluorescence imaging with spinning disk confocal microscope optics. MBoC 26: 1743–1751.
+18. Smith A M, Mancini M C, and Nie S (2009) Second window for in vivo imaging. Nat. Nanotech. 4: 710–711.
 19. Helmchen F and Denk W (2005) Deep tissue two-photon microscopy. Nat. Methods 2: 932–940.
 20. Reynaud E G, Peychl J, Huisken J, and Tomancak P (2015) Guide to light-sheet microscopy for adventurous biologists. Nat. Methods 12: 30–34.
 21. Huisken J, Swoger J, Del Bene F, Wittbrodt J, and Stelzer E H K (2004) Optical sectioning deep inside live embryos by selective plane illumination microscopy. Science 305: 1007–1009.
@@ -23,107 +24,116 @@
 23. Keller P J, Schmidt A D, Wittbrodt J, and Stelzer E H K (2008) Reconstruction of zebrafish early embryonic development by scanned light sheet microscopy. Science 322: 1065–1069.
 24. Taniguchi A, Nishigami Y, Kajiura-Kobayashi H, Takao D, Tamaoki D, Nakagaki T, Nonaka S, and Sonobe S (2023) Light-sheet microscopy reveals dorsoventral asymmetric membrane dynamics of Amoeba proteus during pressure-driven locomotion. Biol. Open 12: bio059671.
 25. Gao L, Shao L, Chen B-C, and Betzig E (2014) 3D live fluorescence imaging of cellular dynamics using bessel beam plane illumination microscopy. Nat. Protoc. 9: 1083–1101.
-26. Planchon T A, Gao L, Milkie D E, Davidson M W, Galbraith J A, Galbraith C G, and Betzig E (2011) Rapid three-dimensional isotropic imaging of living cells using bessel beam plane illumination. Nat. Methods 8: 417–423.
-27. Chen B-C, Legant W R, Wang K, Shao L, Milkie D E, Davidson M W, Janetopoulos C, Wu X S, Hammer J A III, Liu Z, English B P, et al. (2014) Lattice light-sheet microscopy: imaging molecules to embryos at high spatiotemporal resolution. Science 346: 1257998.
-28. Liu T-L, Upadhyayula S, Milkie D E, Singh V, Wang K, Swinburne I A, Mosaliganti K R, Collins Z M, Hiscock T W, Shea J, Kohrman A Q, et al. (2018) Observing the cell in its native state: imaging subcellular dynamics in multicellular organisms. Science 360: aaq1392.
+26. Planchon T A, Gao L, Milkie D E, Davidson M W, Galbraith J A, Galbraith C G, and Betzig E (2011) Rapid three-dimensional isotropic imaging of living cells using Bessel beam plane illumination. Nat. Methods 8: 417–423.
+27. Chen B-C, Legant W R, Wang K, Shao L, Milkie D E, Davidson M W, Janetopoulos C, Wu X S, Hammer J A III, Liu Z, English B P, et al. (2014) Lattice light-sheet microscopy: Imaging molecules to embryos at high spatiotemporal resolution. Science 346: 1257998.
+28. Liu T-L, Upadhyayula S, Milkie D E, Singh V, Wang K, Swinburne I A, Mosaliganti K R, Collins Z M, Hiscock T W, Shea J, Kohrman A Q, et al. (2018) Observing the cell in its native state: Imaging subcellular dynamics in multicellular organisms. Science 360: eaaq1392.
 29. McDole K, Guignard L, Amat F, Berger A, Malandain G, Royer L A, Turaga S C, Branson K, and Keller P J (2018) In toto imaging and reconstruction of post-implantation mouse development at the single-cell level. Cell 175: 859–876.e33.
 30. Wang Y-C, Khan Z, Kaschube M, and Wieschaus E F (2012) Differential positioning of adherens junctions is associated with initiation of epithelial folding. Nature 484: 390–393.
 31. Sun Z, Amourda C, Shagirov M, Hara Y, Saunders T E, and Toyama Y (2017) Basolateral protrusion and apical contraction cooperatively drive Drosophila germ-band extension. Nat. Cell Biol. 19: 375–383.
 32. Taniguchi K, Maeda R, Ando T, Okumura T, Nakazawa N, Hatori R, Nakamura M, Hozumi S, Fujiwara H, and Matsuno K (2011) Chirality in planar cell shape contributes to left-right asymmetric epithelial morphogenesis. Science 333: 339–341.
 33. Guirao B, Rigaud S U, Bosveld F, Bailles A, López-Gay J, Ishihara S, Sugimura K, Graner F, and Bellaïche Y (2015) Unified quantitative characterization of epithelial tissue development. eLife 4: e08519.
 34. Ishihara S and Sugimura K (2012) Bayesian inference of force dynamics during morphogenesis. J. Theor. Biol. 313: 201–211.
-35. Yamamoto T, Cockburn K, Greco V, and Kawaguchi K (2022) Probing the rules of cell coordination in live tissues by interpretable machine learning based on graph neural networks. PLOS Computational Biology 18: e1010477.
+35. Yamamoto T, Cockburn K, Greco V, and Kawaguchi K (2022) Probing the rules of cell coordination in live tissues by interpretable machine learning based on graph neural networks. PLoS Comput. Biol. 18: e1010477.
 36. Malin-Mayor C, Hirsch P, Guignard L, McDole K, Wan Y, Lemon W C, Kainmueller D, Keller P J, Preibisch S, and Funke J (2023) Automated reconstruction of whole-embryo cell lineages by learning from sparse annotations. Nat. Biotechnol. 41: 44–49.
 37. Wolf S, Wan Y, and McDole K (2021) Current approaches to fate mapping and lineage tracing using image data. Development 148: dev198994.
 38. de Medeiros G, Ortiz R, Strnad P, Boni A, Moos F, Repina N, Challet Meylan L, Maurer F, and Liberali P (2022) Multiscale light-sheet organoid imaging framework. Nat. Commun. 13: 4864.
 39. Suzuki T and Morishita Y (2017) A quantitative approach to understanding vertebrate limb morphogenesis at the macroscopic tissue level. Curr. Opin. Genet. Dev. 45: 108–114.
 40. Morishita Y, Hironaka K, Lee S-W, Jin T, and Ohtsuka D (2017) Reconstructing 3D deformation dynamics for curved epithelial sheet morphogenesis from positional data of sparsely-labeled cells. Nat. Commun. 8: 15.
 41. Meijering E (2012) Cell segmentation: 50 years down the road [life sciences]. IEEE Signal Process. Mag. 29: 140–145.
-42. Xing F and Yang L (2016) Robust nucleus/cell detection and segmentation in digital pathology and microscopy images: A comprehensive review. IEEE Rev. Biomed. Eng. 9: 234–263.
+42. Xing F and Yang L (2016) Robust nucleus/cell detection and segmentation in digital pathology and microscopy images: a comprehensive review. IEEE Rev. Biomed. Eng. 9: 234–263.
 43. Nketia T A, Sailem H, Rohde G, Machiraju R, and Rittscher J (2017) Analysis of live cell images: methods, tools and opportunities. Methods 115: 65–79.
 44. Schneider C A, Rasband W S, and Eliceiri K W (2012) NIH Image to ImageJ: 25 years of image analysis. Nat. Methods 9: 671–675.
-
-46. Granger B E and Perez F (2021) Jupyter: Thinking and storytelling with code and data. Comput. Sci. Eng. 23: 7–14.
+45. van der Walt S, Schönberger J L, Nunez-Iglesias J, Boulogne F, Warner JD, Yager N, Gouillart E, and Yu T, the scikit-image contributors (2014) scikit-image: image processing in Python. PeerJ 2: e453.
+46. Granger B E and Pérez F (2021) Jupyter: Thinking and storytelling with code and data. Comput. Sci. Eng. 23: 7–14.
 47. Haase R, Fazeli E, Legland D, Doube M, Culley S, Belevich I, Jokitalo E, Schorb M, Klemm A, and Tischer C (2022) A hitchhiker's guide through the bio‐image analysis software universe. FEBS Let. 596: 2472–2485.
-
-49. Barbier de Reuille P, Routier-Kierzkowska A-L, Kierzkowski D, Bassel G W, Schüpbach T, Tauriello G, Bajpai N, Strauss S, Weber A, Kiss A, Burian A, et al. (2015) MorphoGraphX: A platform for quantifying morphogenesis in 4D. eLife 4: e05864.
+48. Ahlers J, Althviz Moré D, Amsalem O, Anderson A, Bokota G, Boone P, Bragantini J, Buckley G, Burt A, Bussonnier M, Can Solak A, et al. (2023) napari: a multi-dimensional image viewer for Python (v0.4.18). Zenodo. https://doi.org/10.5281/zenodo.8115575.
+49. Barbier de Reuille P, Routier-Kierzkowska A-L, Kierzkowski D, Bassel G W, Schüpbach T, Tauriello G, Bajpai N, Strauss S, Weber A, Kiss A, Burian A, et al. (2015) MorphoGraphX: a platform for quantifying morphogenesis in 4D. eLife 4: e05864.
 50. Strauss S, Runions A, Lane B, Eschweiler D, Bajpai N, Trozzi N, Routier-Kierzkowska A-L, Yoshida S, Rodrigues da Silveira S, Vijayan A, Tofanelli R, et al. (2022) Using positional information to provide context for biological image analysis with MorphoGraphX 2.0. eLife 11: e72601.
-51. Aigouy B, Umetsu D, and Eaton S (2016) Segmentation and quantitative analysis of epithelial tissues. Methods in Molecular Biology 227–239.
+51. Aigouy B, Umetsu D, and Eaton S (2016) Segmentation and quantitative analysis of epithelial tissues. In: Dahmann C (ed.), Drosophila: Methods and Protocols, Methods in Molecular Biology, pp 227–239 (Springer, New York, NY).
 52. Aigouy B, Farhadifar R, Staple D B, Sagner A, Röper J-C, Jülicher F, and Eaton S (2010) Cell flow reorients the axis of planar polarity in the wing epithelium of Drosophila. Cell 142: 773–786.
-
-
+53. Watershed Separation. https://imagej.github.io/imaging/watershed.
+54. Zoccoler M L, Müller J R, Korten T, and Haase R (2023) Image data science with Python and Napari @EPFL. https://github.com/BiAPoL/Image-data-science-with-Python-and-Napari-EPFL2022.
 55. Stegmaier J, Amat F, Lemon W C, McDole K, Wan Y, Teodoro G, Mikut R, and Keller P J (2016) Real-time three-dimensional cell segmentation in large-scale microscopy data of developing embryos. Dev. Cell 36: 225–240.
-56. Navab N, Hornegger J, Wells W M, and Frangi A (2015) Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2015. Springer International Publishing.
+56. Ronneberger O, Fischer P, and Brox T (2015) U-Net: Convolutional networks for biomedical image segmentation. In: Navab N, Hornegger J, Wells W M, and Frangi A F (eds.), Medical Image Computing and Computer-Assisted Intervention – MICCAI 2015, pp 234–241 (Springer International Publishing, Cham).
 57. Ma J and Wang B (2023) Towards foundation models of biological image segmentation. Nat. Methods 20: 953–955.
-58. He K, Gkioxari G, Dollar P, and Girshick R (2017) Mask R-CNN. In: 2017 IEEE International Conference on Computer Vision (ICCV) 322.
+58. He K, Gkioxari G, Dollár P, and Girshick R (2017) Mask R-CNN. In: 2017 IEEE International Conference on Computer Vision (ICCV). Venice, Italy, pp 2980-2988.
 59. Tsai H-F, Gajda J, Sloan T F W, Rares A, and Shen A Q (2019) Usiigaci: instance-aware cell tracking in stain-free phase contrast microscopy enabled by machine learning. SoftwareX 9: 230–237.
-60. Weigert M, Schmidt U, Haase R, Sugawara K, and Myers G (2020) Star-convex polyhedra for 3D object detection and segmentation in microscopy. In: 2020 IEEE Winter Conference on Applications of Computer Vision (WACV) 9093435.
-61. Mandal S and Uhlmann V (2021) Splinedist: automated cell segmentation with spline curves. In: 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI) 9433928.
+60. Weigert M, Schmidt U, Haase R, Sugawara K, and Myers G (2020) Star-convex polyhedra for 3D object detection and segmentation in microscopy. In: 2020 IEEE Winter Conference on Applications of Computer Vision (WACV). Snowmass Village, CO, USA, pp 3655-3662 (IEEE).
+61. Mandal S and Uhlmann V (2021) Splinedist: automated cell segmentation with spline curves. In: 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI). Nice, France, pp 1082-1086.
 62. Stringer C, Wang T, Michaelos M, and Pachitariu M (2021) Cellpose: a generalist algorithm for cellular segmentation. Nat. Methods 18: 100–106.
 63. Pachitariu M and Stringer C (2022) Cellpose 2.0: how to train your own model. Nat. Methods 19: 1634–1641.
+64. Lalit M, Tomancak P, and Jug F (2021) Embedding-based Instance Segmentation in Microscopy  Proceedings of the Fourth Conference on Medical Imaging with Deep Learning, Vol. 143, pp 399-415.
+65. DeepImageJ. https://deepimagej.github.io/.
 66. Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T, Preibisch S, Rueden C, Saalfeld S, Schmid B, Tinevez J-Y, et al. (2012) Fiji: an open-source platform for biological-image analysis. Nat. Methods 9: 676–682.
-67. Gómez-de-Mariscal E, García-López-de-Haro C, Ouyang W, Donati L, Lundberg E, Unser M, Muñoz-Barrutia A, and Sage D (2021) DeepImageJ: A user-friendly environment to run deep learning models in ImageJ. Nat. Methods 18: 1192–1195.
-68. Ouyang W, Beuttenmueller F, Gómez-de-Mariscal E, Pape C, Burke T, Garcia-López-de-Haro C, Russell C, Moya-Sans L, de-la-Torre-Gutiérrez C, Schmidt D, Kutra D, et al. (2022) BioImage Model Zoo: A community-driven resource for accessible deep learning in bioimage analysis. bioRxiv 2022.06.07.495102.
+67. Gómez-de-Mariscal E, García-López-de-Haro C, Ouyang W, Donati L, Lundberg E, Unser M, Muñoz-Barrutia A, and Sage D (2021) DeepImageJ: a user-friendly environment to run deep learning models in ImageJ. Nat. Methods 18: 1192–1195.
+68. Ouyang W, Beuttenmueller F, Gómez-de-Mariscal E, Pape C, Burke T, Garcia-López-de-Haro C, Russell C, Moya-Sans L, de-la-Torre-Gutiérrez C, Schmidt D, Kutra D, et al. (2022) BioImage Model Zoo: a community-driven resource for accessible deep learning in bioimage analysis. bioRxiv 2022.06.07.495102.
 69. Berg S, Kutra D, Kroeger T, Straehle C N, Kausler B X, Haubold C, Schiegg M, Ales J, Beier T, Rudy M, Eren K, et al. (2019) Ilastik: interactive machine learning for (bio)image analysis. Nat. Methods 16: 1226–1232.
 70. Ouyang W, Le T, Xu H, and Lundberg E (2021) Interactive biomedical segmentation tool powered by deep learning and ImJoy. F1000Research 10: 142.
 71. de Chaumont F, Dallongeville S, Chenouard N, Hervé N, Pop S, Provoost T, Meas-Yedid V, Pankajakshan P, Lecomte T, Le Montagner Y, Lagache T, et al. (2012) Icy: an open bioimage informatics platform for extended reproducible research. Nat. Methods 9: 690–696.
 72. Bankhead P, Loughrey M B, Fernández J A, Dombrowski Y, McArt D G, Dunne P D, McQuaid S, Gray R T, Murray L J, Coleman H G, James J A, et al. (2017) QuPath: open source software for digital pathology image analysis. Sci. Rep. 7: 16878.
 73. Greenwald N F, Miller G, Moen E, Kong A, Kagel A, Dougherty T, Fullaway C C, McIntosh B J, Leow K X, Schwartz M S, Pavelchek C, et al. (2022) Whole-cell segmentation of tissue images with human-level performance using large-scale data annotation and deep learning. Nat. Biotechnol. 40: 555–565.
 74. Edlund C, Jackson T R, Khalid N, Bevan N, Dale T, Dengel A, Ahmed S, Trygg J, and Sjögren R (2021) LIVECell—a large-scale dataset for label-free live cell segmentation. Nat. Methods 18: 1038–1045.
-75. von Chamier L, Laine R F, Jukkala J, Spahn C, Krentzel D, Nehme E, Lerche M, Hernández-Pérez S, Mattila P K, Karinou E, Holden S, et al. (2021) Democratising deep learning for microscopy with zerocostdl4mic. Nat. Commun. 12: 2276.
-76. Masuzzo P, Van Troys M, Ampe C, and Martens L (2016) Taking aim at moving targets in computational cell migration. Trends Cell Biol. 26: 88–110.
-77. Luo W, Xing J, Milan A, Zhang X, Liu W, and Kim T-K (2021) Multiple object tracking: A literature review. Artif. Intell. 293: 103448.
-78. Ciaparrone G, Luque Sánchez F, Tabik S, Troiano L, Tagliaferri R, and Herrera F (2020) Deep learning in video multi-object tracking: A survey. Neurocomputing 381: 61–88.
+* 75. von Chamier L, Laine R F, Jukkala J, Spahn C, Krentzel D, Nehme E, Lerche M, Hernández-Pérez S, Mattila P K, Karinou E, Holden S, et al. (2021) Democratising deep learning for microscopy with ZeroCostDL4Mic. Nat. Commun. 12: 2276.
+* 76. Masuzzo P, Van Troys M, Ampe C, and Martens L (2016) Taking aim at moving targets in computational cell migration. Trends Cell Biol. 26: 88–110.
+77. Luo W, Xing J, Milan A, Zhang X, Liu W, and Kim T-K (2021) Multiple object tracking: a literature review. Artif. Intell. 293: 103448.
+78. Ciaparrone G, Luque Sánchez F, Tabik S, Troiano L, Tagliaferri R, and Herrera F (2020) Deep learning in video multi-object tracking: a survey. Neurocomputing 381: 61–88.
 79. Sugawara K, Çevrim Ç, and Averof M (2022) Tracking cell lineages in 3D by incremental deep learning. eLife 11: e69380.
 80. Amat F, Lemon W, Mossing D P, McDole K, Wan Y, Branson K, Myers E W, and Keller P J (2014) Fast, accurate reconstruction of cell lineages from large-scale fluorescence microscopy data. Nat. Methods 11: 951–958.
 81. Soelistyo C J, Ulicna K, and Lowe A R (2023) Machine learning enhanced cell tracking. Front. Bioinform. 3: 1228989.
-
-82. Chen Y, Song Y, Zhang C, Zhang F, O’Donnell L, Chrzanowski W, and Cai W (2021) CellTrack R-CNN: A novel end-to-end deep neural network for cell segmentation and tracking in microscopy images. In: 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI) 9434057.
-83. Guignard L, Fiúza U-M, Leggio B, Laussu J, Faure E, Michelin G, Biasuz K, Hufnagel L, Malandain G, Godin C, and Lemaire P (2020) Contact area–dependent cell communication and the morphological invariance of ascidian embryogenesis. Science 369: aar5663.
+82. Chen Y, Song Y, Zhang C, Zhang F, O’Donnell L, Chrzanowski W, and Cai W (2021) CellTrack R-CNN: a novel end-to-end deep neural network for cell segmentation and tracking in microscopy images. In: 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI) Nice, France, pp 779-782.
+83. Guignard L, Fiúza U-M, Leggio B, Laussu J, Faure E, Michelin G, Biasuz K, Hufnagel L, Malandain G, Godin C, and Lemaire P (2020) Contact area–dependent cell communication and the morphological invariance of ascidian embryogenesis. Science 369: eaar5663.
 84. Crocker J C and Grier D G (1996) Methods of digital video microscopy for colloidal studies. J. Colloid Interface Sci. 179: 298–310.
 85. Jaqaman K, Loerke D, Mettlen M, Kuwata H, Grinstein S, Schmid S L, and Danuser G (2008) Robust single-particle tracking in live-cell time-lapse sequences. Nat. Methods 5: 695-702.
-86. Tinevez J-Y, Perry N, Schindelin J, Hoopes G M, Reynolds G D, Laplantine E, Bednarek S Y, Shorte S L, and Eliceiri K W (2017) Trackmate: an open and extensible platform for single-particle tracking. Methods 115: 80–90.
+86. Tinevez J-Y, Perry N, Schindelin J, Hoopes G M, Reynolds G D, Laplantine E, Bednarek S Y, Shorte S L, and Eliceiri K W (2017) TrackMate: an open and extensible platform for single-particle tracking. Methods 115: 80–90.
 87. Ershov D, Phan M-S, Pylvänäinen J W, Rigaud S U, Le Blanc L, Charles-Orszag A, Conway J R W, Laine R F, Roy N H, Bonazzi D, Duménil G, et al. (2022) TrackMate 7: integrating state-of-the-art segmentation algorithms into tracking pipelines. Nat. Methods 19: 829–832.
 88. Fukai Y T and Kawaguchi K (2023) LapTrack: linear assignment particle tracking with tunable metrics. Bioinformatics 39: btac799.
 89. Stirling D R, Swain-Bowden M J, Lucas A M, Carpenter A E, Cimini B A, and Goodman A (2021) CellProfiler 4: improvements in speed, utility and usability. BMC Bioinf. 22: 433.
-90. Chalfoun J, Majurski M, Dima A, Halter M, Bhadriraju K, and Brady M (2016) Lineage mapper: A versatile cell and particle tracker. Sci. Rep. 6: 36984.
-91. Ulicna K, Vallardi G, Charras G, and Lowe A R (2021) Automated deep lineage tree analysis using a bayesian single cell tracking approach. Front. Comput. Sci. 3: 734559.
-
-92. Schiegg M, Hanslovsky P, Kausler B X, Hufnagel L, and Hamprecht F A (2013) Conservation tracking. In: 2013 IEEE International Conference on Computer Vision 364.
-93. Chenouard N, Bloch I, and Olivo-Marin J (2013) Multiple hypothesis tracking for cluttered biological image sequences. IEEE Trans. Pattern Anal. Mach. Intell. 35: 2736–3750.
-94. Hirsch P, Malin-Mayor C, Santella A, Preibisch S, Kainmueller D, and Funke J (2022) Tracking by weakly-supervised learning and graph optimization for whole-embryo C. elegans lineages. Lecture Notes in Computer Science 25–35.
+90. Chalfoun J, Majurski M, Dima A, Halter M, Bhadriraju K, and Brady M (2016) Lineage Mapper: a versatile cell and particle tracker. Sci. Rep. 6: 36984.
+91. Ulicna K, Vallardi G, Charras G, and Lowe A R (2021) Automated deep lineage tree analysis using a Bayesian single cell tracking approach. Front. Comput. Sci. 3: 734559.
+92. Schiegg M, Hanslovsky P, Kausler B X, Hufnagel L, and Hamprecht F A (2013) Conservation tracking. In: 2013 IEEE International Conference on Computer Vision Sydney, Australia, pp 2928-2935 (IEEE).
+93. Chenouard N, Bloch I, and Olivo-Marin J-C (2013) Multiple hypothesis tracking for cluttered biological image sequences. IEEE Trans. Pattern Anal. Mach. Intell. 35: 2736–3750.
+94. Hirsch P, Malin-Mayor C, Santella A, Preibisch S, Kainmueller D, and Funke J (2022) Tracking by weakly-supervised learning and graph optimization for whole-embryo C. elegans lineages. In: Wang L, Dou Q, Fletcher P T, Speidel S, and Li S (eds.), Medical Image Computing and Computer Assisted Intervention – MICCAI 2022, pp 25–35 (Springer Nature Switzerland, Cham).
+95. Löffler K and Mikut R (2022) EmbedTrack—simultaneous cell segmentation and tracking through learning offsets and clustering bandwidths. IEEE Access 10: 77147-77157.
+96. Ben-Haim T and Raviv T R (2022) Graph neural network for cell tracking in microscopy videos. In: Avidan S, Brostow G, Cissé M, Farinella G M, and Hassner T (eds.), Computer Vision – ECCV 2022, pp 610–626 (Springer Nature Switzerland, Cham).
+97. Moen E, Borba E, Miller G, Schwartz M, Bannon D, Koe N, Camplisson I, Kyme D, Pavelchek C, Price T, and Kudo T (2019) Accurate cell tracking and lineage construction in live-cell imaging experiments with deep learning. bioRxiv 803205.
 98. Bove A, Gradeci D, Fujita Y, Banerjee S, Charras G, and Lowe A R (2017) Local cellular neighborhood controls proliferation in cell competition. MBoC 28: 3215–3228.
 99. Ulman V, Maška M, Magnusson K E G, Ronneberger O, Haubold C, Harder N, Matula P, Matula P, Svoboda D, Radojevic M, Smal I, et al. (2017) An objective comparison of cell-tracking algorithms. Nat. Methods 14: 1141–1152.
 100. Caicedo J C, Goodman A, Karhohs K W, Cimini B A, Ackerman J, Haghighi M, Heng C, Becker T, Doan M, McQuin C, Rohban M, et al. (2019) Nucleus segmentation across imaging experiments: the 2018 Data Science Bowl. Nat. Methods 16: 1247–1253.
-101. Nunley H, Shao B, Grover P, Singh J, Joyce B, Kim-Yip R, Kohrman A, Watters A, Gal Z, Kickuth A, Chalifoux M, et al. (2023) A novel ground truth dataset enables robust 3D nuclear instance segmentation in early mouse embryos. [] 532646.
+101. Nunley H, Shao B, Grover P, Singh J, Joyce B, Kim-Yip R, Kohrman A, Watters A, Gal Z, Kickuth A, Chalifoux M, et al. (2023) A novel ground truth dataset enables robust 3D nuclear instance segmentation in early mouse embryos. bioRxiv 2023.03.14.532646.
 102. Maier-Hein L, Eisenmann M, Reinke A, Onogur S, Stankovic M, Scholz P, Arbel T, Bogunovic H, Bradley A P, Carass A, Feldmann C, et al. (2018) Why rankings of biomedical image analysis competitions should be interpreted with care. Nat. Commun. 9: 5217.
 103. Chen J, Viana M P, and Rafelski S M (2023) When seeing is not believing: application-appropriate validation matters for quantitative bioimage analysis. Nat. Methods 20: 968–970.
-104. Rubens U, Mormont R, Paavolainen L, Bäcker V, Pavie B, Scholz L A, Michiels G, Maška M, Ünay D, Ball G, Hoyoux R, et al. (2020) BIAFLOWS: A collaborative framework to reproducibly deploy and benchmark bioimage analysis workflows. Patterns 1: 100040.
+104. Rubens U, Mormont R, Paavolainen L, Bäcker V, Pavie B, Scholz L A, Michiels G, Maška M, Ünay D, Ball G, Hoyoux R, et al. (2020) BIAFLOWS: a collaborative framework to reproducibly deploy and benchmark bioimage analysis workflows. Patterns 1: 100040.
+105. Kirillov A, Mintun E, Ravi N, Mao H, Rolland C, Gustafson L, Xiao T, Whitehead S, Berg A C, Lo W-Y, Dollár P, et al. (2023) Segment anything. arXiv 2304.02643. https://doi.org/10.48550/arXiv.2304.02643.
 106. Arganda-Carreras I, Kaynig V, Rueden C, Eliceiri K W, Schindelin J, Cardona A, and Sebastian Seung H (2017) Trainable Weka segmentation: a machine learning tool for microscopy pixel classification. Bioinformatics 33: 2424–2426.
+107. Arganda-Carreras I, Rueden C, Colina J S, Schindelin J, Arzt M, Cardona A, Eglinger J, Hiner M, Tinevez J-Y, Freydiere P, Meijering E, and Helfrich S (2022) fiji/Trainable_Segmentation: Trainable_Segmentation-3.3.2. Zenodo. https://doi.org/10.5281/zenodo.5849093.
 108. Arzt M, Deschamps J, Schmied C, Pietzsch T, Schmidt D, Tomancak P, Haase R, and Jug F (2022) LABKIT: labeling and segmentation toolkit for big image data. Front. Comput. Sci. 4: 777728.
+109. Haase R, Lee D, Pop D D, and Žigutytė L (2023) haesleinhuepf/napari-accelerated-pixel-and-object-classification: 0.14.1. Zenodo https://doi.org/10.5281/zenodo.10071078.
+110. YAPiC. (2023) Yet Another Pixel Classifier (Based on Deep Learning). https://github.com/yapic/yapic.
 111. Zhuang F, Qi Z, Duan K, Xi D, Zhu Y, Zhu H, Xiong H, and He Q (2021) A comprehensive survey on transfer learning. Proc. IEEE 109: 43–76.
 112. Budd S, Robinson E C, and Kainz B (2021) A survey on active learning and human-in-the-loop deep learning for medical image analysis. Med. Image Anal. 71: 102062.
 113. Wagner S, Thierbach K, Zerjatke T, Glauche I, Roeder I, and Scherf N (2021) TraCurate: Efficiently curating cell tracks. SoftwareX 13: 100656.
 114. Cooper S, Barr A R, Glen R, and Bakal C (2017) NucliTrack: an integrated nuclei tracking application. Bioinformatics 33: 3320–3322.
 115. Padovani F, Mairhörmann B, Falter-Braun P, Lengefeld J, and Schmoller K M (2022) Segmentation, tracking and cell cycle analysis of live-cell imaging data with cell-ACDC. BMC Biol. 20: 174.
-116. Han H, Wu G, Li Y, and Zi Z (2019) eDetect: A fast error detection and correction tool for live cell imaging data analysis. iScience 13: 1–8.
+116. Han H, Wu G, Li Y, and Zi Z (2019) eDetect: a fast error detection and correction tool for live cell imaging data analysis. iScience 13: 1–8.
 117. Wait E, Winter M, Bjornsson C, Kokovay E, Wang Y, Goderie S, Temple S, and Cohen A R (2014) Visualization and correction of automated segmentation, tracking and lineaging from 5-D stem cell image sequences. BMC Bioinf. 15: 328.
 118. Downey M J, Jeziorska D M, Ott S, Tamai T K, Koentges G, Vance K W, and Bretschneider T (2011) Extracting fluorescent reporter time courses of cell lineages from high-throughput microscopy at low temporal resolution. PLoS ONE 6: e27886.
 119. Hilsenbeck O, Schwarzfischer M, Skylaki S, Schauberger B, Hoppe P S, Loeffler D, Kokkaliaris K D, Hastreiter S, Skylaki E, Filipczyk A, Strasser M, et al. (2016) Software tools for single-cell tracking and quantification of cellular and molecular properties. Nat. Biotechnol. 34: 703–706.
 120. Piccinini F, Kiss A, and Horvath P (2016) CellTracker (not only) for dummies. Bioinformatics 32: 955–957.
 121. Cornwell J A, Li J, Mahadevan S, Draper J S, Joun G L, Zoellner H, Asli N S, Harvey R P, and Nordon R E (2020) TrackPad: software for semi-automated single-cell tracking and lineage annotation. SoftwareX 11: 100440.
-122. Schott B, Traub M, Schlagenhauf C, Takamiya M, Antritter T, Bartschat A, Löffler K, Blessing D, Otte J C, Kobitski A Y, Nienhaus G U, et al. (2018) EmbryoMiner: A new framework for interactive knowledge discovery in large-scale cell tracking data of developing embryos. PLOS Computational Biology 14: e1006128.
+122. Schott B, Traub M, Schlagenhauf C, Takamiya M, Antritter T, Bartschat A, Löffler K, Blessing D, Otte J C, Kobitski A Y, Nienhaus G U, et al. (2018) EmbryoMiner: a new framework for interactive knowledge discovery in large-scale cell tracking data of developing embryos. PLOS Comput. Biol. 14: e1006128.
 123. Saalfeld S, Cardona A, Hartenstein V, and Tomančák P (2009) CATMAID: collaborative annotation toolkit for massive amounts of image data. Bioinformatics 25: 1984–1986.
+124. Likar B, Maintz J B, Viergever M A, and Pernus F (2000) Retrospective shading correction based on entropy minimization. J. Microsc. 197: 285-295.
 125. Smith K, Li Y, Piccinini F, Csucs G, Balazs C, Bevilacqua A, and Horvath P (2015) CIDRE: an illumination-correction method for optical microscopy. Nat. Methods 12: 404–406.
 126. Peng T, Thorn K, Schroeder T, Wang L, Theis F J, Marr C, and Navab N (2017) A BaSiC tool for background and shading correction of optical microscopy images. Nat. Commun. 8: 14836.
 127. Muhlich J L, Chen Y-A, Yapp C, Russell D, Santagata S, and Sorger P K (2022) Stitching and registering highly multiplexed whole-slide images of tissues and tumors using ASHLAR. Bioinformatics 38: 4613–4621.
 128. Chalfoun J, Majurski M, Blattner T, Bhadriraju K, Keyrouz W, Bajcsy P, and Brady M (2017) MIST: accurate and scalable microscopy image stitching tool with stage modeling and error minimization. Sci. Rep. 7: 4988.
+129. Fukai Y T (2021) M2Stitch. https://github.com/yfukai/m2stitch.
 
-130. Hörl D, Rojas Rusak F, Preusser F, Tillberg P, Randel N, Chhetri R K, Cardona A, Keller P J, Harz H, Leonhardt H, Treier M, et al. (2019) Bigstitcher: reconstructing high-resolution image datasets of cleared and expanded samples. Nat. Methods 16: 870–874.
+130. Hörl D, Rojas Rusak F, Preusser F, Tillberg P, Randel N, Chhetri R K, Cardona A, Keller P J, Harz H, Leonhardt H, Treier M, et al. (2019) BigStitcher: reconstructing high-resolution image datasets of cleared and expanded samples. Nat. Methods 16: 870–874.
 131. Fan L, Zhang F, Fan H, and Zhang C (2019) Brief review of image denoising techniques. Vis. Comput. Ind. Biomed. Art 2: 7.
-132. Ogita G, Kondo T, Ikawa K, Uemura T, Ishihara S, and Sugimura K (2022) Image-based parameter inference for epithelial mechanics. PLOS Computational Biology 18: e1010209.
+* 132. Ogita G, Kondo T, Ikawa K, Uemura T, Ishihara S, and Sugimura K (2022) Image-based parameter inference for epithelial mechanics. PLoS Comput. Biol. 18: e1010209.
 133. Shindo A and Wallingford J B (2014) PCP and septins compartmentalize cortical actomyosin to direct collective cell movement. Science 343: 649–652.
-134. Tanase M, Biais N, and Sheetz M (2007) Magnetic tweezers in cell biology. Methods in Cell Biology 473–493.
+134. Tanase M, Biais N, and Sheetz M (2007) Magnetic tweezers in cell biology. In: Methods in Cell Biology, Vol. 83, pp 473–493 (Academic Press, Cambridge, Massachusetts, USA).
 135. De Vlaminck I and Dekker C (2012) Recent advances in magnetic tweezers. Annu. Rev. Biophys. 41: 453–472.
 136. Garzon-Coral C, Fantana H A, and Howard J (2016) A force-generating machinery maintains the spindle at the cell center during mitosis. Science 352: 1124–1127.
 137. Watanabe R, Okuno D, Sakakihara S, Shimabukuro K, Iino R, Yoshida M, and Noji H (2012) Mechanical modulation of catalytic power on F1-ATPase. Nat. Chem. Biol. 8: 86–92.
@@ -131,38 +141,38 @@
 139. Fukui H, Chow R W-Y, Xie J, Foo Y Y, Yap C H, Minc N, Mochizuki N, and Vermot J (2021) Bioelectric signaling and the control of cardiac cell identity in response to mechanical forces. Science 374: 351–354.
 140. Mongera A, Rowghanian P, Gustafson H J, Shelton E, Kealhofer D A, Carn E K, Serwane F, Lucio A A, Giammona J, and Campàs O (2018) A fluid-to-solid jamming transition underlies vertebrate body axis elongation. Nature 561: 401–405.
 141. Mongera A, Pochitaloff M, Gustafson H J, Stooke-Vaughan G A, Rowghanian P, Kim S, and Campàs O (2023) Mechanics of the cellular microenvironment as probed by cells in vivo during zebrafish presomitic mesoderm differentiation. Nat. Mat. 22: 135–143.
-
+142. Gosse C and Croquette V (2002) Magnetic tweezers: micromanipulation and force measurement at the molecular level. Biophys. J. 82: 3314–3329.
 143. Svoboda K and Block S M (1994) Biological applications of optical forces. Annu. Rev. Biophys. Biomol. Struct. 23: 247–285.
-144. Katoh T A, Fujimura S, and Nishizaka T (2017) 3-D single particle tracking using dual images divided by prism: method and application to optical trapping. Handbook of Photonics for Biomedical Engineering 755–766.
+144. Katoh T A, Fujimura S, and Nishizaka T (2017) 3-D single particle tracking using dual images divided by prism: method and application to optical trapping. In: Ho A H-P, Kim D, and Somekh M G (eds.), Handbook of Photonics for Biomedical Engineering, pp 755–766 (Springer, Netherlands, Dordrecht).
 145. Yajima J, Mizutani K, and Nishizaka T (2008) A torque component present in mitotic kinesin Eg5 revealed by three-dimensional tracking. Nat. Struct. Mol. Biol. 15: 1119–1121.
 146. Katoh T A, Ikegami K, Uchida N, Iwase T, Nakane D, Masaike T, Setou M, and Nishizaka T (2018) Three-dimensional tracking of microbeads attached to the tip of single isolated tracheal cilia beating under external load. Sci. Rep. 8: 15562.
 147. Naito T M, Masaike T, Nakane D, Sugawa M, Okada K A, and Nishizaka T (2019) Single-molecule pull-out manipulation of the shaft of the rotary motor F1-ATPase. Sci. Rep. 9: 7451.
 148. Bustamante C J, Chemla Y R, Liu S, and Wang M D (2021) Optical tweezers in single-molecule biophysics. Nat. Rev. Methods Primers 1: 25.
 149. Mizutani M, Tulum I, Kinosita Y, Nishizaka T, and Miyata M (2018) Detailed analyses of stall force generation in mycoplasma mobile gliding. Biophys. J. 114: 1411–1419.
-150. Schonbrun E, Piestun R, Jordan P, Cooper J, Wulff K D, Courtial J, and Padgett M (2005) 3D interferometric optical tweezers using a single spatial light modulator. Opt. Express 13: 3777.
-151. Nishizawa K, Lin S-Z, Chardès C, Rupprecht J-F, and Lenne P-F (2023) Two-point optical manipulation reveals mechanosensitive remodeling of cell–cell contacts in vivo. Proc. Natl. Acad. Sci. U.S.A. 120: 2212389120.
+150. Schonbrun E, Piestun R, Jordan P, Cooper J, Wulff K D, Courtial J, and Padgett M (2005) 3D interferometric optical tweezers using a single spatial light modulator. Opt. Express 13: 3777–3786.
+151. Nishizawa K, Lin S-Z, Chardès C, Rupprecht J-F, and Lenne P-F (2023) Two-point optical manipulation reveals mechanosensitive remodeling of cell–cell contacts in vivo. Proc. Natl. Acad. Sci. U.S.A. 120: e2212389120.
 152. Bambardekar K, Clément R, Blanc O, Chardès C, and Lenne P-F (2015) Direct laser manipulation reveals the mechanics of cell contacts in vivo. Proc. Natl. Acad. Sci. U.S.A. 112: 1416–1421.
 153. Djenoune L, Mahamdeh M, Truong T V, Nguyen C T, Fraser S E, Brueckner M, Howard J, and Yuan S (2023) Cilia function as calcium-mediated mechanosensors that instruct left-right asymmetry. Science 379: 71–78.
-154. Krieg M, Fläschner G, Alsteens D, Gaub B M, Roos W H, Wuite G J L, Gaub H E, Gerber C, Dufrêne Y F, and Müller D J (2018) Atomic force microscopy-based mechanobiology. Nat. Rev. Phys. 1: 41–57.
+154. Krieg M, Fläschner G, Alsteens D, Gaub B M, Roos W H, Wuite G J L, Gaub H E, Gerber C, Dufrêne Y F, and Müller D J (2019) Atomic force microscopy-based mechanobiology. Nat. Rev. Phys. 1: 41–57.
 155. Dufrêne Y F, Ando T, Garcia R, Alsteens D, Martinez-Martin D, Engel A, Gerber C, and Müller D J (2017) Imaging modes of atomic force microscopy for application in molecular and cell biology. Nat. Nanotech. 12: 295–307.
 156. Ando T, Uchihashi T, and Kodera N (2013) High-speed AFM and applications to biomolecular systems. Annu. Rev. Biophys. 42: 393–414.
 157. Umeda K, McArthur S J, and Kodera N (2023) Spatiotemporal resolution in high-speed atomic force microscopy for studying biological macromolecules in action. Microscopy 72: 151–161.
 158. Chan C J, Costanzo M, Ruiz-Herrero T, Mönke G, Petrie R J, Bergert M, Diz-Muñoz A, Mahadevan L, and Hiiragi T (2019) Hydraulic control of mammalian embryo size and cell fate. Nature 571: 112–116.
 159. Shibata M, Yamashita H, Uchihashi T, Kandori H, and Ando T (2010) High-speed atomic force microscopy shows dynamic molecular processes in photoactivated bacteriorhodopsin. Nat. Nanotech. 5: 208–212.
-160. Sawyer J M, Harrell J R, Shemer G, Sullivan-Brown J, Roh-Johnson M, and Goldstein B (2010) Apical constriction: A cell shape change that can drive morphogenesis. Dev. Biol. 341: 5–19.
+160. Sawyer J M, Harrell J R, Shemer G, Sullivan-Brown J, Roh-Johnson M, and Goldstein B (2010) Apical constriction: a cell shape change that can drive morphogenesis. Dev. Biol. 341: 5–19.
 161. Suzuki M, Morita H, and Ueno N (2012) Molecular mechanisms of cell shape changes that contribute to vertebrate neural tube closure. Develop. Growth Differ. 54: 266–276.
 162. Martin A C and Goldstein B (2014) Apical constriction: themes and variations on a cellular mechanism driving morphogenesis. Development 141: 1987–1998.
 163. Martin A C, Kaschube M, and Wieschaus E F (2009) Pulsed contractions of an actin-myosin network drive apical constriction. Nature 457: 495–499.
 164. Francou A, Anderson K V, and Hadjantonakis A-K (2023) A ratchet-like apical constriction drives cell ingression during the mouse gastrulation EMT. eLife 12: e84019.
 165. Gracia M, Theis S, Proag A, Gay G, Benassayag C, and Suzanne M (2019) Mechanical impact of epithelial−mesenchymal transition on epithelial morphogenesis in Drosophila. Nat. Commun. 10: 2951.
-
+166. Shindo A (2018) Models of convergent extension during morphogenesis. Wiley Interdiscip. Rev. Dev. Biol. 7: e293.
 167. Bertet C, Sulak L, and Lecuit T (2004) Myosin-dependent junction remodelling controls planar cell intercalation and axis elongation. Nature 429: 667–671.
 168. Blankenship J T, Backovic S T, Sanny J S P, Weitz O, and Zallen J A (2006) Multicellular rosette formation links planar cell polarity to tissue morphogenesis. Dev. Cell 11: 459–470.
 169. Sui L, Alt S, Weigert M, Dye N, Eaton S, Jug F, Myers E W, Jülicher F, Salbreux G, and Dahmann C (2018) Differential lateral and basal tension drive folding of Drosophila wing discs through two distinct mechanisms. Nat. Commun. 9: 4620.
 170. John A and Rauzi M (2021) A two-tier junctional mechanism drives simultaneous tissue folding and extension. Dev. Cell 56: 1469–1483.e5.
-171. Ohtsuka D, Kida N, Lee S-W, Kawahira N, and Morishita Y (2022) Cell disorientation by loss of shh-dependent mechanosensation causes cyclopia. Sci. Adv. 8: abn2330.
+171. Ohtsuka D, Kida N, Lee S-W, Kawahira N, and Morishita Y (2022) Cell disorientation by loss of SHH-dependent mechanosensation causes cyclopia. Sci. Adv. 8: eabn2330.
 172. Vignes H, Vagena-Pantoula C, Prakash M, Fukui H, Norden C, Mochizuki N, Jug F, and Vermot J (2022) Extracellular mechanical forces drive endocardial cell volume decrease during zebrafish cardiac valve morphogenesis. Dev. Cell 57: 598–609.e5.
-173. Okada Y, Takeda S, Tanaka Y, Belmonte J-C I, and Hirokawa N (2005) Mechanism of nodal flow: A conserved symmetry breaking event in left-right axis determination. Cell 121: 633–644.
+173. Okada Y, Takeda S, Tanaka Y, Belmonte J-C I, and Hirokawa N (2005) Mechanism of nodal flow: a conserved symmetry breaking event in left-right axis determination. Cell 121: 633–644.
 174. Nonaka S, Tanaka Y, Okada Y, Takeda S, Harada A, Kanai Y, Kido M, and Hirokawa N (1998) Randomization of left–right asymmetry due to loss of nodal cilia generating leftward flow of extraembryonic fluid in mice lacking KIF3B motor protein. Cell 95: 829–837.
 175. McGrath J, Somlo S, Makova S, Tian X, and Brueckner M (2003) Two populations of node monocilia initiate left-right asymmetry in the mouse. Cell 114: 61–73.
 176. Yoshiba S, Shiratori H, Kuo I Y, Kawasumi A, Shinohara K, Nonaka S, Asai Y, Sasaki G, Belo J A, Sasaki H, Nakai J, et al. (2012) Cilia at the node of mouse embryos sense fluid flow for left-right determination via Pkd2. Science 338: 226–231.
