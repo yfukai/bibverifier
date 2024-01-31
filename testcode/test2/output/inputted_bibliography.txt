@@ -115,7 +115,7 @@
 115. Padovani F, Mairhörmann B, Falter-Braun P, Lengefeld J, and Schmoller K M (2022) Segmentation, tracking and cell cycle analysis of live-cell imaging data with cell-ACDC. BMC Biol. 20: 174.
 116. Han H, Wu G, Li Y, and Zi Z (2019) eDetect: a fast error detection and correction tool for live cell imaging data analysis. iScience 13: 1–8.
 117. Wait E, Winter M, Bjornsson C, Kokovay E, Wang Y, Goderie S, Temple S, and Cohen A R (2014) Visualization and correction of automated segmentation, tracking and lineaging from 5-D stem cell image sequences. BMC Bioinf. 15: 328.
-118. Downey M J, Jeziorska D M, Ott S, Tamai T K, Koentges G, Vance K W, and Bretschneider T (2011) Extracting fluorescent reporter time courses of cell lineages from high-throughput microscopy at low temporal resolution. PLOS ONE 6: e27886.
+118. Downey M J, Jeziorska D M, Ott S, Tamai T K, Koentges G, Vance K W, and Bretschneider T (2011) Extracting fluorescent reporter time courses of cell lineages from high-throughput microscopy at low temporal resolution. PLoS ONE 6: e27886.
 119. Hilsenbeck O, Schwarzfischer M, Skylaki S, Schauberger B, Hoppe P S, Loeffler D, Kokkaliaris K D, Hastreiter S, Skylaki E, Filipczyk A, Strasser M, et al. (2016) Software tools for single-cell tracking and quantification of cellular and molecular properties. Nat. Biotechnol. 34: 703–706.
 120. Piccinini F, Kiss A, and Horvath P (2016) CellTracker (not only) for dummies. Bioinformatics 32: 955–957.
 121. Cornwell J A, Li J, Mahadevan S, Draper J S, Joun G L, Zoellner H, Asli N S, Harvey R P, and Nordon R E (2020) TrackPad: software for semi-automated single-cell tracking and lineage annotation. SoftwareX 11: 100440.
